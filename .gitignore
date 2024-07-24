@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/node_modules
+/bower_components
+
+# Build directories
+/dist
+/build
+
+# System files
+.DS_Store
+Thumbs.db
