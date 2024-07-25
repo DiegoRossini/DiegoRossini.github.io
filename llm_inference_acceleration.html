@@ -1,0 +1,146 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>LLM Inference Acceleration</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Projects</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about_me.html">About me</a></li>
+							<li><a href="cv.html">Curriculum Vitae</a></li>
+							<li><a href="contacts.html">Contacts</a></li>
+							<li><a href="index.html">Projects</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1 style="letter-spacing: 6px;">LLM Inference Acceleration</h1>
+
+							<!-- Text -->
+								<section>
+									<h2 style="background-color: transparent; color: black; font-size: 1.2em; font-weight: bold; text-align: justify;">Project description</h2>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">This project aims to significantly <b>boost the inference speed of open-source LLMs</b>. We achieve this by transitioning from the traditional Multi-head Attention mechanism to the Grouped Query Attention mechanism, following insights from the paper <i><a href="https://arxiv.org/pdf/2305.13245">GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints</a></i>.</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal;text-align: justify;">The process begins with <b>evaluating the LLM's performance</b> using responses to the SQuAD v2 dataset. Responses are compared with expected answers using cosine similarity, with preliminary checks performed using OpenAI's ADA model. For scores within the range of 0.70 to 0.85, additional verification is done using GPT-3.5 to confirm accuracy, ensuring both model evaluation speed and accuracy.</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">We then refine the model by <b>mean pooling the weights of the key and value components</b> within the Multi-head Attention mechanism, using a custom script. Due to resource limitations, we utilize Low-Rank Adaptation for fine-tuning. This involves two stages: unsupervised fine-tuning on the Slim Pajama dataset, followed by instruction-based fine-tuning on the Awesome dataset.*</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">Finally, we <b>measure the model's performance</b>, focusing on both the quality of generated responses and the speed of inference.</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">Discover more about this project and click on the button below to access the GitHub Repository.</p>
+									<ul class="actions">
+										<li style="width: 100%; margin: 0; padding: 0;"><a href="#" class="button fit">Find out more on this project</a></li>
+									</ul>
+									<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+										<div style="text-align: center; margin: 0 10px;">
+											<img src="images/generation_time.jpg" alt="Generation Time" style="width: 500px; height: auto; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" />
+											<p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;"><i>Generation time in minutes (1200 sample questions)</i></p>
+										</div>
+										<div style="text-align: center; margin: 0 10px;">
+											<img src="images/performance_score.jpg" alt="Performance Score" style="width: 500px; height: auto; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" />
+											<p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;"><i>Qualitative score (1200 sample questions)</i></p>
+										</div>
+									</div>
+									<p style="background-color: transparent; color: black; font-size: 0.8em; font-weight: normal; text-align: justify;"><i>*This project is ongoing and is being developed as part of an internship at an R&D company based in Lyon.</i></p>
+									<hr>
+								</section>
+								<section>
+									<h2 style="background-color: transparent; color: black; font-size: 1.2em; font-weight: bold; text-align: justify;">Explore More Projects</h2>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">If you're interested in exploring more projects, please select another project from the dropdown menu.</p>
+									<select name="demo-category" id="demo-category" style="width: 100%; padding: 8px; box-sizing: border-box;">
+										<option value="">- Select Project -</option>
+										<option value="./llm_inference_acceleration.html">LLM Inference Acceleration</option>
+										<option value="2">Chess Move Commentator</option>
+										<option value="3">Topic Modeling Analysis of 2022 News</option>
+										<option value="4">Multilingual NLP Analysis of the Term 'Suburb'</option>
+										<option value="5">French Verb Classifier V1</option>
+										<option value="6">Automatic Text Generation in WikiCreole</option>
+										<option value="7">Real-Time Text Analysis with Chunkers</option>
+										<option value="8">Film Review Sentiment Classifier</option>
+										<option value="9">AutoGramm Parsing Project Contribution</option>
+									</select>
+									<button id="go-button" style="width: 100%; padding: 8px; box-sizing: border-box;">Go</button>
+								</section>
+						</div>
+					</div>
+
+				<!-- Footer -->
+				<footer id="footer">
+					<div class="inner">
+						<section>
+							<h2 style="color: black;"> Get in touch</h2>
+							<form id="contact-form">
+								<div class="fields">
+									<div class="field half">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field half">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send" class="primary" /></li>
+								</ul>
+							</form>
+						</section>
+						<section>
+							<h2 style="color: black;">Follow</h2>
+							<ul class="icons">
+								<li><a href="https://github.com/DiegoRossini?tab=repositories" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://gitlab.com/diego.rossini418" class="icon brands style2 fa-gitlab"><span class="label">GitLab</span></a></li>
+								<li><a href="https://www.linkedin.com/in/diego-rossini/" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="#" class="icon solid style2 fa-envelope" onclick="copyEmail()"><span class="label">Email</span></a></li>
+							</ul>
+						</section>
+						<ul class="copyright">
+							<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
+				</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/selectProject.js"></script>
+	</body>
+</html>
