@@ -19,3 +19,7 @@ logs/
 # System files
 .DS_Store
 Thumbs.db
+
+# Pages
+generic.html
+elements.html
