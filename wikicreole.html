@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Machine learning model for classifying the French verb <i>Pouvoir</i></title>
+		<title>Automatic Text Generation in WikiCreole</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -50,25 +50,27 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1 style="letter-spacing: 6px;">MACHINE LEARNING MODEL FOR CLASSIFYING THE FRENCH VERB <i>POUVOIR</i></h1>
-							<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-								<div style="text-align: center; margin: 0 10px;">
-									<img src="./images/modal_detector_article.jpg" alt="Generation Time" style="width: 1000px; height: auto; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" />
-								    <p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;"><i>First page of the conference article</i></p>
-								</div>
+							<h1 style="letter-spacing: 6px;">AUTOMATIC TEXT GENERATION IN WIKICREOLE</h1>
+							<div style="
+								border: 2px solid #4CAF50; /* Green border */
+								padding: 10px;
+								margin: 20px 0;
+								border-radius: 8px;
+								box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+								background-color: #f9f9f9;
+							">
+								<script src="https://gist.github.com/DiegoRossini/b967c8ca4e6d49870720c844b1c7b09d.js"></script>
 							</div>
+							<p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;"><i>Simple RNN model used in this project</i></p>
 							<!-- Text -->
 								<section>
 									<h2 style="background-color: transparent; color: black; font-size: 1.2em; font-weight: bold; text-align: justify; margin-top: 120px;">Project description</h2>
-									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">The Modal Verbs Modality Detector project focuses on <b>creating a machine learning model to identify and analyze modal verbs' usage in text</b>. This endeavor is rooted in Natural Language Processing and involves a systematic approach to gather data, train the model, and evaluate its performance.</p>
-									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal;text-align: justify;">The project's primary objective is to <b>build a reliable model that can detect modal verbs and determine their modality</b>, which includes understanding their function in expressing necessity, possibility, permission, or obligation. The methodology begins with data collection, where a diverse set of texts is compiled to ensure the model can generalize well across different contexts. This corpus is meticulously annotated, marking the modal verbs and their respective modalities.</p>
-									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">The team utilizes advanced NLP techniques and leverages various machine learning algorithms to train the model. The training process involves feature extraction, where linguistic features relevant to modality are identified and used to train the model. These features might include the position of the modal verb in a sentence, its surrounding words, and syntactic structures.</p>
-									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">A significant part of the project is dedicated to fine-tuning the model to achieve high accuracy. The team experiments with different algorithms, adjusts hyperparameters, and employs cross-validation techniques to prevent overfitting. The performance of the model is rigorously evaluated using metrics such as precision, recall, and F1-score to ensure it accurately detects modal verbs and their modality in unseen texts.</p>
-									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">The results of the project are promising, indicating that <b>the model can effectively identify modal verbs and classify their modality</b> with a high degree of accuracy. The team acknowledges the challenges encountered, such as dealing with ambiguous cases where the context heavily influences the interpretation of modality. However, the solutions and strategies developed during the project provide valuable insights for future research in this area.</p>
-									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">The culmination of this work is presented in an <b>article that is available in the project repository</b> under the name <b><i>COLLI_ROSSINI_BATTISTELLI</i></b>. This article details the entire process, from data collection and annotation to model training and evaluation. It serves as a comprehensive guide for understanding the intricacies of building a modality detector and offers a foundation for further advancements in NLP and modality detection.</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">This project aims to <b>automatically generate text in WikiCreole syntax</b> using a RNN with TensorFlow. The primary goal is to produce a Wikipedia page for a new French region, inspired by existing pages of French regions. The objectives include preprocessing data by converting WikiCreole text into sequences of characters, training an RNN model to predict the next character in a sequence, and <b>generating a new Wikipedia page in WikiCreole for a fictional region</b>.</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal;text-align: justify;">The methodology involves several key steps. First, the corpus, consisting of <b>WikiCreole files from the pages of French regions</b>, is prepared. This includes converting characters into identifiers and generating sequences of characters, which are crucial for the model's learning process. The RNN model, which includes Embedding, GRU (Gated Recurrent Unit), and Dense layers, is then trained over 100 epochs to optimize its predictive capabilities.</p>
+									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">Once trained, the model is used to generate new text in WikiCreole. Starting with a seed text, <b>the model predicts subsequent characters</b> to create a coherent and syntactically correct text.</p>
 									<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">Discover more about this project and click on the button below to access the GitHub Repository.</p>
 									<ul class="actions">
-										<li style="width: 100%; margin: 0; padding: 0;"><a href="https://github.com/DiegoRossini/Modal-verbs-modality-detector" class="button fit">Find out more on this project</a></li>
+										<li style="width: 100%; margin: 0; padding: 0;"><a href="https://github.com/MathildeCh/wikiCreoleTextGeneration/tree/main" class="button fit">Find out more on this project</a></li>
 									</ul>
 									<hr>
 								</section>
