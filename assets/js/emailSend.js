@@ -1,21 +1,21 @@
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM fully loaded and parsed');
-    
+
     const form = document.querySelector('form');
-    
+
     if (form) {
         form.addEventListener('submit', (event) => {
             event.preventDefault();
-            
+
             console.log('Form submit event triggered');
-            
+
             const name = document.getElementById('name').value;
             const email = document.getElementById('email').value;
             const message = document.getElementById('message').value;
-            
+
             console.log('Form data:', { name, email, message });
-            
-            fetch('http://138.199.16.244:3000/send-email', { 
+
+            fetch('https://6b80-2a01-e0a-e10-bb10-5d01-c632-231-8404.ngrok-free.app/send-email', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
