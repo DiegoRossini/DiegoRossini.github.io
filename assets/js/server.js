@@ -2,12 +2,14 @@ const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
+const cors = require('cors');
 require('dotenv').config({ path: path.resolve(__dirname, '../../.env.txt') });
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 // Serve static files
+app.use(cors());
 app.use(express.static(path.join(__dirname, '../assets/js')));
 app.use(express.static(path.join(__dirname, '../assets/css')));
 app.use('/images', express.static(path.join(__dirname, '../images')));
