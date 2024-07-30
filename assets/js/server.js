@@ -7,15 +7,18 @@ require('dotenv').config({ path: path.resolve(__dirname, '../../.env.txt') });
 const app = express();
 const port = process.env.PORT || 3000;
 
+// Serve static files
+app.use(express.static(path.join(__dirname, '../assets/js')));
+app.use(express.static(path.join(__dirname, '../assets/css')));
+app.use('/images', express.static(path.join(__dirname, '../images')));
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-// Serve the HTML file
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../../index.html'));
 });
 
-// Handle email sending
 app.post('/send-email', (req, res) => {
     const { name, email, message } = req.body;
 
@@ -44,7 +47,6 @@ app.post('/send-email', (req, res) => {
     });
 });
 
-// Start the server
 app.listen(port, '0.0.0.0', () => {
     console.log(`Server running at http://0.0.0.0:${port}/`);
 });
