@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             console.log('Form data:', { name, email, message });
             
-            fetch('http://localhost:3000/send-email', {
+            fetch('http://192.168.1.200:3000/send-email', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

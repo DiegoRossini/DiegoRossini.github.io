@@ -1,19 +1,14 @@
 const express = require('express');
-const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
-const cors = require('cors');
 const path = require('path');
 require('dotenv').config({ path: path.resolve(__dirname, '../../.env.txt') });
-
-console.log('EMAIL_USER:', process.env.EMAIL_USER);
-console.log('EMAIL_PASS:', process.env.EMAIL_PASS);
 
 const app = express();
 const port = 3000;
 
-app.use(bodyParser.json());
-app.use(cors());
+app.use(express.json());
 
+// Serve the HTML form at the root URL
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../../index.html'));
 });
@@ -30,23 +25,23 @@ app.post('/send-email', (req, res) => {
     });
 
     const mailOptions = {
-        from: process.env.EMAIL_USER,
+        from: email,
         to: process.env.EMAIL_USER,
-        subject: `Contact from ${name}`,
-        text: `Message from: ${name} <${email}>\n\n${message}`,
-        replyTo: email
+        subject: `Message from ${name}`,
+        text: message
     };
 
     transporter.sendMail(mailOptions, (error, info) => {
         if (error) {
-            console.error('Error sending email:', error);
-            return res.status(500).send(error.toString());
+            console.error('Error:', error);
+            res.status(500).send('Failed to send email');
+        } else {
+            console.log('Email sent:', info.response);
+            res.send('Email sent successfully');
         }
-        console.log('Email sent:', info.response);
-        res.status(200).send('Email sent: ' + info.response);
     });
 });
 
-app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}/`);
+app.listen(port, '0.0.0.0', () => {
+    console.log(`Server running at http://0.0.0.0:${port}/`);
 });
