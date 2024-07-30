@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log('Form data:', { name, email, message });
 
             // Replace this URL with your Ngrok URL
-            const ngrokUrl = 'https://6b80-2a01-e0a-e10-bb10-5d01-c632-231-8404.ngrok-free.app';
+            const ngrokUrl = 'https://252c-2a01-e0a-e10-bb10-5d01-c632-231-8404.ngrok-free.app';
 
             fetch(`${ngrokUrl}/send-email`, {
                 method: 'POST',
