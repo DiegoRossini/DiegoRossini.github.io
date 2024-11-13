@@ -27,7 +27,7 @@ def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-1.5B-Instruct"):
         "text-generation", 
         model=model, 
         tokenizer=tokenizer, 
-        max_new_tokens=100,  # Limit the number of tokens generated to prevent long outputs
+        max_new_tokens=100,  
         device_map="auto"
     )
     
@@ -38,16 +38,11 @@ def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-1.5B-Instruct"):
 
 # Main function to run the RAG system
 def run_query(qa_chain, user_query):
-    # Append the prompt instruction to the user's query for concise answers
     query = f"{user_query} Generate just one short phrase. Do not explain anything."
-    
-    # Get the response from the RAG system
     response = qa_chain.run(query)
     
-    # Strip leading/trailing whitespace
     answer = response.split("Helpful Answer:")[-1].strip() if "Helpful Answer:" in response else response.strip()
 
-    # If the answer is empty or doesn't make sense, return a fallback message
     if not answer or answer == "I don't know":
         answer = "Sorry, I couldn't find an answer to your question."
 
@@ -58,7 +53,7 @@ def run_query(qa_chain, user_query):
 st.title("Diego Rossini's Chatbot")
 
 # Load data and initialize the RAG pipeline only once
-qa_documents = load_qa_data("./QA.txt")  # Adjust this path if needed
+qa_documents = load_qa_data("bot/QA.txt") 
 qa_chain = setup_rag_pipeline(qa_documents)
 
 # Input field for the user's question
