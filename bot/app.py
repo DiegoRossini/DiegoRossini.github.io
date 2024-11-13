@@ -1,11 +1,12 @@
 import streamlit as st
-from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import SentenceTransformerEmbeddings
+from langchain.vectorstores import FAISS  
+from langchain.embeddings import SentenceTransformerEmbeddings
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain.chains import RetrievalQA
-from langchain_community.llms import HuggingFacePipeline
+from langchain.llms import HuggingFacePipeline
 from langchain.schema import Document
 import re
+import faiss
 
 # Load and parse Q&A data from a text file
 def load_qa_data(file_path):
@@ -17,7 +18,9 @@ def load_qa_data(file_path):
 # Set up the model, embeddings, and vector store
 def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-1.5B-Instruct"):
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
-    vectorstore = Chroma.from_documents(qa_documents, embedding=embeddings_model)
+
+    # Replacing Chroma with FAISS
+    vectorstore = FAISS.from_documents(qa_documents, embedding=embeddings_model)
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)

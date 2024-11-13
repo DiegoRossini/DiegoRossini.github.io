@@ -3,5 +3,5 @@ transformers
 torch
 langchain
 sentence-transformers
-chromadb
+faiss-cpu
 langchain_community
