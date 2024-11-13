@@ -1,0 +1,3008 @@
+Q: Where is Diego Rossini's birthplace?
+A: Diego Rossini is born in Urbino, Italy.
+
+Q: What is Diego Rossini's primary field of study?
+A: Diego Rossini's primary field of study is Natural Language Processing (NLP).
+
+Q: Where did Diego Rossini complete his Master's degree in NLP?
+A: Diego Rossini completed his Master's degree in NLP at Université Paris Nanterre in France.
+
+Q: What programming language does Diego Rossini primarily use?
+A: Diego Rossini primarily uses Python for his projects and research.
+
+Q: What was the focus of Diego's project on modal verbs?
+A: Diego's project focused on creating a modal sense classifier for the French modal verb "pouvoir".
+
+Q: Which BERT-based model performed best in Diego's modal verb classification project?
+A: The Flaubert-base-cased model performed best, achieving an F1-score of 0.94.
+
+Q: What was the main challenge in the semantic substitution process for the modal verb project?
+A: The main challenge was the resource-intensive nature of available models and difficulties in handling French spoken language.
+
+Q: What languages does Diego Rossini speak fluently?
+A: Diego Rossini speaks Italian (mother tongue), English (fluent), and French (fluent).
+
+Q: What was the purpose of the PPE1 project Diego worked on?
+A: The PPE1 project focused on the socio-linguistic analysis of the term "banlieue" in multiple languages.
+
+Q: Which languages were included in the PPE1 project?
+A: The PPE1 project included Italian, French, English, and Modern Greek.
+
+Q: What was the main goal of the PPE2 project?
+A: The main goal of the PPE2 project was to analyze topics and expressions that marked the news in 2022 using topic modeling techniques.
+
+Q: What newspaper was used as the primary source for the PPE2 project?
+A: The newspaper "Le Monde" was used as the primary source for the PPE2 project.
+
+Q: What technique was used for topic modeling in the PPE2 project?
+A: The PPE2 project used LDA (Latent Dirichlet Allocation) for topic modeling.
+
+Q: What was the focus of Diego's internship at WorldLine Lyon?
+A: Diego's internship at WorldLine Lyon focused on LLM Inference Acceleration.
+
+Q: What aspect of LLMs did Diego evaluate during his internship at WorldLine?
+A: Diego evaluated various LLMs in terms of FLOPS, inference speed, and output performance.
+
+Q: What technique did Diego use for fine-tuning LLMs during his WorldLine internship?
+A: Diego used Low-Rank Adaptation (LoRA) for fine-tuning LLMs on Azure ML.
+
+Q: What was Diego's role in the AutoGrammar project?
+A: In the AutoGrammar project, Diego worked on automated extraction of descriptive grammars from annotated corpora.
+
+Q: Which specific languages did Diego work with in the AutoGrammar project?
+A: Diego worked with the Gbaya and Beja languages in the AutoGrammar project.
+
+Q: What type of files did Diego process in the AutoGrammar project?
+A: Diego processed Elan files derived from voice recordings in the AutoGrammar project.
+
+Q: What was the purpose of the annotation schema Diego developed in the AutoGrammar project?
+A: The annotation schema bridged the gap between linguist labels and machine learning algorithms.
+
+Q: What was the focus of Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship at InTechSolutions focused on Machine Learning, specifically text preprocessing and sentiment analysis.
+
+Q: What was the average grade Diego achieved in his Master's degree in NLP?
+A: Diego achieved an average grade of 16/20 in his Master's degree in NLP.
+
+Q: What libraries did Diego use in his NLP projects?
+A: Diego used libraries such as spaCy, stanza, and trankit in his NLP projects.
+
+Q: What was Project 1 in Diego's Master's degree about?
+A: Project 1 was about semantic analysis of the word "banlieue" and its variants in Italian, English, and French.
+
+Q: What was Project 2 in Diego's Master's degree about?
+A: Project 2 involved scraping trending expressions over time from Le Monde publications.
+
+Q: What cloud platform did Diego use for LLM fine-tuning?
+A: Diego used Azure ML for LLM fine-tuning.
+
+Q: What was the duration of Diego's Udemy NLP courses?
+A: Diego completed 41 hours of Udemy NLP courses.
+
+Q: What was the topic of Diego's Ph.D. project?
+A: Diego's Ph.D. project was on a unified analysis of partitive phrases in contemporary French.
+
+Q: Where did Diego complete his Master's degree in Linguistics?
+A: Diego completed his Master's degree in Linguistics at Universit   di Bologna in Italy.
+
+Q: What was Diego's grade in his Master's degree in Linguistics?
+A: Diego achieved 110/110 with highest honors in his Master's degree in Linguistics.
+
+Q: What is one of Diego's interests mentioned in his CV?
+A: One of Diego's interests mentioned is Sport, specifically playing football for 15 years.
+
+Q: What music genre is mentioned in Diego's interests?
+A: Rock music, specifically Pink Floyd, is mentioned in Diego's interests.
+
+Q: What is Diego's ELO rating in chess?
+A: Diego's ELO rating in chess is 1400.
+
+Q: What was the main focus of the chunkers project Diego worked on?
+A: The chunkers project focused on applying chunking techniques to real-time text data analysis.
+
+Q: Which chunkers were evaluated in Diego's project?
+A: SEM, TreeTagger, SpaCy, and NLTK were evaluated in the chunkers project.
+
+Q: What tool was used for automated data scraping in the chunkers project?
+A: Selenium was used for automated data scraping in the chunkers project.
+
+Q: What was the main finding regarding pauses in the chunkers project?
+A: The project found that pauses frequently occur at chunk boundaries, particularly between prepositional and nominal groups.
+
+Q: What was the focus of Diego's movie comment classification project?
+A: The project focused on classifying movie comments into positive and negative categories.
+
+Q: Which machine learning models were used in the movie comment classification project?
+A: Naive-Bayes (BernoulliNB) and Support Vector Machine (SVM) were used in the movie comment classification project.
+
+Q: What technique was used for text vectorization in the movie comment project?
+A: TF-IDF was used for text vectorization in the movie comment project.
+
+Q: What was the data split ratio used in the movie comment classification project?
+A: The data was split into 70% training and 30% testing sets.
+
+Q: What is Diego's current location according to his CV?
+A: According to his CV, Diego is located in Lyon.
+
+Q: What type of driving license does Diego have?
+A: Diego has a B type driving license.
+
+Q: What cloud computing platform is Diego skilled in?
+A: Diego is skilled in Azure ML.
+
+Q: What containerization technology is mentioned in Diego's computer skills?
+A: Docker is mentioned in Diego's computer skills.
+
+Q: What version control system does Diego use?
+A: Diego uses Git for version control.
+
+Q: What was the duration of Diego's internship at Laboratoire Modyco Nanterre?
+A: Diego's internship at Laboratoire Modyco Nanterre lasted from April 2023 to July 2023.
+
+Q: What was the main task in Diego's internship at Laboratoire Modyco Nanterre?
+A: The main task was training an ML parser on Arboration and creating a usable treebank.
+
+Q: What type of files did Diego work with in the AutoGrammar project?
+A: Diego worked with Elan files from voice recordings in the AutoGrammar project.
+
+Q: What was the purpose of the scripts Diego designed in the AutoGrammar project?
+A: The scripts were designed for the conversion and processing of Elan files.
+
+Q: What was the main challenge in the modal verb classification project?
+A: A main challenge was the model's bias towards certain fixed structures in classifying permission uses of "pouvoir".
+
+Q: What was the most frequent modal category for "pouvoir" in Diego's project?
+A: The most frequent category was physical possibility or ability, accounting for 51% of "pouvoir" instances.
+
+Q: What technique did Diego use for data augmentation in the modal verb project?
+A: Diego used lexical substitution with the cc.fr.300.bin model and gensim library for data augmentation.
+
+Q: What tool did Diego use for corpus annotation in the modal verb project?
+A: Diego used Glozz for corpus annotation in the modal verb project.
+
+Q: What was the inter-annotator agreement score in the modal verb project?
+A: The broad inter-annotator agreement score was 0.66 using Fleiss' Kappa.
+
+Q: What corpus did Diego use for the modal verb classification project?
+A: Diego used the ES_CF corpus, composed of interviews from Eslo and CFPP corpora.
+
+Q: How many interviews were annotated in the modal verb project?
+A: 24 interviews were annotated in the modal verb project.
+
+Q: What was the average length of the annotated interviews in the modal verb project?
+A: The average length of the annotated interviews was 15,000 tokens.
+
+Q: What linguistic model did Diego base his annotation scheme on for the modal verb project?
+A: Diego based his annotation scheme on Gosselin's linguistic model.
+
+Q: How many global modal categories were considered for "pouvoir" in Diego's project?
+A: Three global modal categories were considered: alethic, epistemic, and deontic.
+
+Q: What was the total number of "pouvoir" occurrences annotated in Diego's project?
+A: A total of 879 occurrences of "pouvoir" were manually annotated.
+
+Q: What tool did Diego use to count modal categories in the ES_CF corpus?
+A: Diego used the ModalE tool to count modal categories in the ES_CF corpus.
+
+Q: What was the focus of Diego's work in the PPE2 project regarding the French Presidential Elections?
+A: Diego focused on defining key periods around the French Presidential Elections and generating specific corpora for these periods.
+
+Q: What visualization tool did Diego use in the PPE2 project?
+A: Diego used PyLDAvis for visualizing topic modeling results in the PPE2 project.
+
+Q: What was the purpose of using Google News in the PPE1 project?
+A: Google News was used to search for articles containing the terms "banlieue" and "police" in different languages.
+
+Q: What type of analysis did Diego perform on client comments during his internship at InTechSolutions?
+A: Diego performed sentiment analysis on client comments during his internship at InTechSolutions.
+
+Q: What was the duration of Diego's NLP Bootcamp course?
+A: Diego's NLP Bootcamp course was 17 hours long.
+
+Q: What specific task did Diego work on regarding GQA during his internship at WorldLine?
+A: Diego worked on implementing GQA (Grouped Query Attention) mechanism on Open Source LLM.
+
+Q: What dataset did Diego use for evaluating LLM performance at WorldLine?
+A: Diego used the SQuAD v2 dataset for evaluating LLM performance.
+
+Q: What technique did Diego use for fine-tuning during his WorldLine internship?
+A: Diego used Low-Rank Adaptation
+
+Q: What was the duration of Diego's NLP Bootcamp course?
+A: Diego's NLP Bootcamp course was 17 hours long.
+
+Q: What specific task did Diego work on regarding GQA during his internship at WorldLine?
+A: Diego worked on implementing GQA (Grouped Query Attention) mechanism on Open Source LLM.
+
+Q: What dataset did Diego use for evaluating LLM performance at WorldLine?
+A: Diego used the SQuAD v2 dataset for evaluating LLM performance.
+
+Q: What technique did Diego use for fine-tuning during his WorldLine internship?
+A: Diego used Low-Rank Adaptation (LoRA) for fine-tuning LLMs.
+
+Q: What was the purpose of using OpenAI's ADA model in the LLM project?
+A: OpenAI's ADA model was used for preliminary checks of LLM responses.
+
+Q: What dataset was used for unsupervised fine-tuning in the LLM project?
+A: The Slim Pajama dataset was used for unsupervised fine-tuning.
+
+Q: What dataset was used for instruction-based fine-tuning in the LLM project?
+A: The Awesome dataset was used for instruction-based fine-tuning.
+
+Q: What was the main focus of Diego's work in the AutoGrammar project?
+A: Diego focused on automated extraction of descriptive grammars from annotated corpora.
+
+Q: What type of neural networks did Diego study in his Udemy NLP course?
+A: Diego studied recurrent neural networks and chatbot construction in his Udemy NLP course.
+
+Q: How long was Diego's Machine Learning in NLP course?
+A: Diego's Machine Learning in NLP course was 12 hours long.
+
+Q: What was the duration of Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship at InTechSolutions Srl Milano lasted from April 2022 to September 2022.
+
+Q: What type of pipelines did Diego work with at InTechSolutions?
+A: Diego worked with text preprocessing pipelines at InTechSolutions.
+
+Q: What was the focus of Diego's Master's thesis in NLP?
+A: Diego's Master's thesis focused on fine-tuning a pre-trained model for automatic comment generation.
+
+Q: What libraries did Diego use for his Master's thesis project?
+A: Diego used libraries such as sklearn, transformers, PyTorch, pandas, numpy, HF, SpaCy, and Gensim for his Master's thesis project.
+
+Q: What was the topic of Project 1 in Diego's NLP Master's program?
+A: Project 1 involved semantic analysis of the word "banlieue" and its variants in Italian, English, and French.
+
+Q: What tools did Diego use for corpus preprocessing in Project 1?
+A: Diego used Bash scripts for information extraction and Python for corpus preprocessing in Project 1.
+
+Q: What was the focus of Project 2 in Diego's NLP Master's program?
+A: Project 2 involved scraping trending expressions over time from Le Monde publications.
+
+Q: What data format did Diego work with in Project 2?
+A: Diego worked with JSON, XML, and pickle data formats in Project 2.
+
+Q: What was the duration of Diego's Ph.D. project?
+A: Diego's Ph.D. project lasted from March 2019 to April 2019.
+
+Q: Where did Diego conduct his Ph.D. project?
+A: Diego conducted his Ph.D. project at Université de Paris 8 Paris.
+
+Q: What was the focus of Diego's Master's degree in Linguistics?
+A: Diego's Master's degree in Linguistics focused on contemporary French linguistics.
+
+Q: How long did Diego's Master's degree in Linguistics take?
+A: Diego's Master's degree in Linguistics took from 2016 to 2019.
+
+Q: What is Diego's GitHub username?
+A: Diego's GitHub username is @diegorossini.
+
+Q: What is Diego's LinkedIn profile name?
+A: Diego's LinkedIn profile name is @diegorossini.
+
+Q: What cuisine is Diego an expert in, according to his interests?
+A: Diego is an expert in Pasta cuisine, according to his interests.
+
+Q: How many years did Diego play football?
+A: Diego played football for 15 years.
+
+Q: What specific rock band is mentioned in Diego's musical interests?
+A: Pink Floyd is mentioned in Diego's musical interests.
+
+Q: What was the main challenge in the semantic substitution process for the modal verb project?
+A: The main challenge was the resource-intensive nature of available models and difficulties in handling French spoken language.
+
+Q: What tool did Diego use for automated data scraping in the chunkers project?
+A: Diego used Selenium for automated data scraping in the chunkers project.
+
+Q: What was the main finding regarding pauses in the chunkers project?
+A: The project found that pauses frequently occur at chunk boundaries, particularly between prepositional and nominal groups.
+
+Q: What technique did Diego use for text vectorization in the movie comment project?
+A: Diego used TF-IDF for text vectorization in the movie comment project.
+
+Q: What was the data split ratio used in the movie comment classification project?
+A: The data was split into 70% training and 30% testing sets.
+
+Q: What was the purpose of the scripts Diego designed in the AutoGrammar project?
+A: The scripts were designed for the conversion and processing of Elan files.
+
+Q: What was the most frequent modal category for "pouvoir" in Diego's project?
+A: The most frequent category was physical possibility or ability, accounting for 51% of "pouvoir" instances.
+
+Q: What is the full name of the university where Diego completed his NLP Master's degree?
+A: Université Paris Nanterre (FRANCE)
+
+Q: In which year did Diego start his Master's degree in NLP?
+A: Diego started his Master's degree in NLP in September 2022.
+
+Q: What is the expected completion date of Diego's NLP Master's degree?
+A: The expected completion date is June 2024.
+
+Q: What specific LLM architecture did Diego work with during his internship at WorldLine?
+A: Diego worked with the BART model during his internship at WorldLine.
+
+Q: What was the purpose of using GPT-3.5 in Diego's LLM project at WorldLine?
+A: GPT-3.5 was used for additional verification of LLM responses with scores between 0.70 and 0.85.
+
+Q: What specific task did Diego perform on the key and value components in the Multi-head Attention mechanism?
+A: Diego performed mean pooling on the weights of the key and value components.
+
+Q: What was the start date of Diego's internship at WorldLine Lyon?
+A: Diego's internship at WorldLine Lyon started in March 2024.
+
+Q: What type of interviews did Diego work with in the ES_CF corpus?
+A: Diego worked with semi-structured interviews in the ES_CF corpus.
+
+Q: How many interviews from the Eslo corpus were included in the ES_CF corpus?
+A: 207 interviews from the Eslo corpus were included in the ES_CF corpus.
+
+Q: How many interviews from the CFPP corpus were included in the ES_CF corpus?
+A: 14 interviews from the CFPP corpus were included in the ES_CF corpus.
+
+Q: What was the total number of modal markers in the ES_CF corpus?
+A: The ES_CF corpus contained globally 150,000 modal markers.
+
+Q: What percentage of total modal markers did "pouvoir" represent in the ES_CF corpus?
+A: "Pouvoir" represented 4.94% of the total modal markers in the ES_CF corpus.
+
+Q: How many refined modal categories did Diego consider for "pouvoir" in his project?
+A: Diego considered 6 possible refined modal categories for "pouvoir".
+
+Q: What annotation tool did Diego use in the modal verb project?
+A: Diego used Glozz for corpus annotation in the modal verb project.
+
+Q: What was the "strict" inter-annotator agreement score in the modal verb project?
+A: The strict inter-annotator agreement score was 0.6 using Fleiss' Kappa.
+
+Q: How many sentences were in the base corpus for the modal verb project?
+A: The base corpus contained 776 sentences with at least one occurrence of "pouvoir".
+
+Q: How many sentences were in the augmented corpus for the modal verb project?
+A: The augmented corpus contained 1716 sentences.
+
+Q: What was the purpose of including context in the corpus for the modal verb project?
+A: Context was included to help the classifier better understand the modal sense of "pouvoir" and make more accurate predictions.
+
+Q: How many epochs were used in training the camembert-base model?
+A: The camembert-base model was trained over seven epochs.
+
+Q: What was the F1-score of the camembert-base model when the "O" class was excluded?
+A: The F1-score of the camembert-base model was 0.88 when the "O" class was excluded.
+
+Q: What percentage of the dataset constituted the non-pouvoir class labeled "O"?
+A: Over 97% of the dataset constituted the non-pouvoir class labeled "O".
+
+Q: What was the F1-score of the flaubert-base-cased model when the "O" class was excluded?
+A: The F1-score of the flaubert-base-cased model was 0.92 when the "O" class was excluded.
+
+Q: What specific challenge did the model face with the "material possibility or ability" category?
+A: The model encountered challenges indicating slight semantic overlaps in the "material possibility or ability" category.
+
+Q: What was the percentage of "eventuality" instances of "pouvoir" in the final results?
+A: Eventuality accounted for 9% of "pouvoir" instances in the final results.
+
+Q: What was the percentage of "sporadicity" instances of "pouvoir" in the final results?
+A: Sporadicity accounted for 5% of "pouvoir" instances in the final results.
+
+Q: What was the most representative global modal category for "pouvoir" in Diego's project?
+A: The most representative global modal category was alethic, accounting for 56% of instances.
+
+Q: What future plans did Diego mention for expanding the modal verb project?
+A: Diego mentioned plans to include the verb "devoir" (must) in future work.
+
+Q: What was the ultimate goal of Diego's approach in the modal verb project?
+A: The ultimate goal was to identify which modal categories are prevalent in any given corpus.
+
+Q: What specific task did Diego perform in the PPE1 project regarding the term "banlieue"?
+A: Diego analyzed the socio-linguistic usage of the term "banlieue" in Italian and English.
+
+Q: What was the Italian equivalent of "banlieue" used in the PPE1 project?
+A: The Italian equivalent used was "PERIFERIA".
+
+Q: What was the English equivalent of "banlieue" used in the PPE1 project?
+A: The English equivalent used was "SUBURB".
+
+Q: What data source did Diego use for collecting articles in the PPE1 project?
+A: Diego used Google News to collect articles for the PPE1 project.
+
+Q: What additional term did Diego use along with "banlieue" to search for articles in the PPE1 project?
+A: Diego used the term "police" along with "banlieue" to search for articles.
+
+Q: What tool did Diego use to generate word clouds in the PPE1 project?
+A: Diego developed a Python script to generate word clouds for each language in the PPE1 project.
+
+Q: What tool did Diego use for in-depth analysis of results in the PPE1 project?
+A: Diego created a base for Itrameur for in-depth analysis of results in the PPE1 project.
+
+Q: What was the data source for the PPE2 project?
+A: The data source for the PPE2 project was publications from the newspaper "Le Monde".
+
+Q: What specific period did the PPE2 project focus on?
+A: The PPE2 project focused on analyzing news topics and expressions from 2022.
+
+Q: What tool did Diego use for topic modeling in the PPE2 project?
+A: Diego used the run_lda.py script for topic modeling in the PPE2 project.
+
+Q: What visualization tool did Diego use to examine the coherence and utility of generated topics in the PPE2 project?
+A: Diego used PyLDAvis to examine the coherence and utility of generated topics in the PPE2 project.
+
+Q: What specific event did Diego focus on in the PPE2 project?
+A: Diego focused on the French Presidential Elections in the PPE2 project.
+
+Q: How did Diego divide the analysis period for the French Presidential Elections in the PPE2 project?
+A: Diego divided the analysis into periods before, during, and after the elections.
+
+Q: What was the purpose of the chunkers project Diego worked on?
+A: The chunkers project aimed to explore the use of chunkers for real-time text data analysis.
+
+Q: What types of data did the chunkers project deal with?
+A: The project dealt with data including cursor positions, typed or deleted characters, spaces, and final texts.
+
+Q: How many stages of the writing process did the corpus in the chunkers project cover?
+A: The corpus covered three stages of the writing process: planning, formulation, and revision.
+
+Q: What metric did Diego use to evaluate chunkers in addition to recall and precision?
+A: Diego used the F-measure score to evaluate chunkers in addition to recall and precision.
+
+Q: What technique did Diego use for data preparation in the chunkers project?
+A: Diego reconstructed texts from recordings and created bigram phrases for chunker analysis.
+
+Q: What was the main focus of Diego's movie comment classification project?
+A: The project focused on classifying movie comments into positive and negative categories.
+
+Q: What preprocessing steps did Diego perform in the movie comment classification project?
+A: Diego performed tokenizing, POS tagging, lemmatizing, and cleaning of punctuation and stop-words.
+
+Q: What was Diego's role in the AutoGrammar project regarding Elan files?
+A: Diego designed scripts for the conversion and processing of Elan files derived from voice recordings.
+
+Q: What was the purpose of the annotation schema Diego developed in the AutoGrammar project?
+A: The annotation schema was designed to translate nuanced linguist labels into formats usable by ML algorithms.
+
+Q: What was the main focus of Diego's work in the Autogramm project?
+A: Diego focused on automated extraction of descriptive grammars and grammatical descriptions from annotated corpora.
+
+Q: Which specific under-resourced languages did Diego work with in the Autogramm project?
+A: Diego worked with Gbaya and Beja languages in the Autogramm project.
+
+Q: What type of linguistic resource did Diego help create for Gbaya and Beja?
+A: Diego contributed to the development of treebanks for Gbaya and Beja languages.
+
+Q: What was the purpose of the annotation schema Diego developed in the Autogramm project?
+A: The annotation schema bridged the gap between linguist labels and machine learning algorithms.
+
+Q: What type of files did Diego process in the Autogramm project?
+A: Diego processed Elan files derived from voice recordings in the Autogramm project.
+
+Q: What was the main challenge in processing Elan files in the Autogramm project?
+A: The main challenge was transforming raw linguistic data into a structured format suitable for further analysis.
+
+Q: What was the ultimate goal of the Autogramm project?
+A: The ultimate goal was to enrich typological and comparative studies of under-resourced languages.
+
+Q: What aspect of LLM performance did Diego focus on during his internship at WorldLine Lyon?
+A: Diego focused on LLM Inference Acceleration during his internship at WorldLine Lyon.
+
+Q: What specific LLM architecture did Diego work on transitioning from traditional Multi-head Attention?
+A: Diego worked on transitioning to the Grouped Query Attention mechanism.
+
+Q: What dataset did Diego use for evaluating LLM performance at WorldLine?
+A: Diego used the SQuAD v2 dataset for evaluating LLM responses.
+
+Q: What model did Diego use for preliminary checks of LLM responses?
+A: Diego used OpenAI's ADA model for preliminary checks of LLM responses.
+
+Q: What technique did Diego use for fine-tuning LLMs at WorldLine?
+A: Diego used Low-Rank Adaptation (LoRA) for fine-tuning LLMs.
+
+Q: What cloud platform did Diego use for LLM fine-tuning at WorldLine?
+A: Diego used Azure ML for LLM fine-tuning at WorldLine.
+
+Q: What was the focus of Diego's internship at Laboratoire Modyco Nanterre?
+A: Diego's internship focused on the AutoGrammar Project, specifically training an ML parser on Arboration.
+
+Q: What was the duration of Diego's internship at Laboratoire Modyco Nanterre?
+A: Diego's internship at Laboratoire Modyco Nanterre lasted from April 2023 to July 2023.
+
+Q: What was the main task Diego performed in the AutoGrammar project at Laboratoire Modyco Nanterre?
+A: Diego's main task was training an ML parser on Arboration and creating a usable treebank.
+
+Q: What type of linguistic data did Diego work with in the AutoGrammar project?
+A: Diego worked with voice recordings and their annotations in the AutoGrammar project.
+
+Q: What was the focus of Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship focused on Machine Learning, specifically text preprocessing and sentiment analysis.
+
+Q: What was the duration of Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship at InTechSolutions Srl Milano lasted from April 2022 to September 2022.
+
+Q: What type of data did Diego analyze during his internship at InTechSolutions?
+A: Diego analyzed client comments for sentiment during his internship at InTechSolutions.
+
+Q: What type of pipelines did Diego work with at InTechSolutions?
+A: Diego worked with text preprocessing pipelines at InTechSolutions.
+
+Q: What was the focus of Diego's Ph.D. project at Universit   de Paris 8?
+A: Diego's Ph.D. project focused on a unified analysis of partitive phrases in contemporary French.
+
+Q: What was the duration of Diego's Ph.D. project?
+A: Diego's Ph.D. project lasted from March 2019 to April 2019.
+
+Q: Where did Diego complete his Master's degree in Linguistics?
+A: Diego completed his Master's degree in Linguistics at Universit   di Bologna in Italy.
+
+Q: What grade did Diego achieve in his Master's degree in Linguistics?
+A: Diego achieved 110/110 with highest honors in his Master's degree in Linguistics.
+
+Q: What was the duration of Diego's Master's degree in Linguistics?
+A: Diego's Master's degree in Linguistics took from 2016 to 2019.
+
+Q: What was the focus of Diego's Master's degree in Linguistics?
+A: Diego's Master's degree in Linguistics focused on contemporary French linguistics.
+
+Q: What Udemy NLP courses did Diego complete?
+A: Diego completed courses on Python for NLP, NLP Bootcamp, NLP with Python, and Machine Learning in NLP.
+
+Q: What was the total duration of Diego's Udemy NLP courses?
+A: The total duration of Diego's Udemy NLP courses was 41 hours.
+
+Q: What specific topics did Diego study in his Udemy NLP courses?
+A: Diego studied topics including preprocessing, vectorization, algorithms, neural networks, and chatbot construction.
+
+Q: What was the focus of the chunkers project Diego worked on?
+A: The chunkers project focused on applying chunking techniques to real-time text data analysis.
+
+Q: What types of data did the chunkers project analyze?
+A: The project analyzed data including cursor positions, typed or deleted characters, spaces, and final texts.
+
+Q: How many stages of the writing process did the corpus in the chunkers project cover?
+A: The corpus covered three stages of the writing process: planning, formulation, and revision.
+
+Q: What tool did Diego use for automated data scraping in the chunkers project?
+A: Diego used Selenium for automated data scraping in the chunkers project.
+
+Q: What was the main finding regarding pauses in the chunkers project?
+A: The project found that pauses frequently occur at chunk boundaries, particularly between prepositional and nominal groups.
+
+Q: What was the focus of Diego's movie comment classification project?
+A: The project focused on classifying movie comments into positive and negative categories.
+
+Q: What machine learning models did Diego use in the movie comment classification project?
+A: Diego used Naive-Bayes (BernoulliNB) and Support Vector Machine (SVM) in the movie comment classification project.
+
+Q: What technique did Diego use for text vectorization in the movie comment project?
+A: Diego used TF-IDF for text vectorization in the movie comment project.
+
+Q: What preprocessing steps did Diego perform in the movie comment classification project?
+A: Diego performed tokenizing, POS tagging, lemmatizing, and cleaning of punctuation and stop-words.
+
+Q: What was the data split ratio used in the movie comment classification project?
+A: The data was split into 70% training and 30% testing sets.
+
+Q: What was Project 1 in Diego's Master's degree about?
+A: Project 1 was about semantic analysis of the word "banlieue" and its variants in Italian, English, and French.
+
+Q: What tools did Diego use for corpus preprocessing in Project 1 of his Master's degree?
+A: Diego used Bash scripts for information extraction and Python for corpus preprocessing in Project 1.
+
+Q: What was the focus of Project 2 in Diego's Master's degree?
+A: Project 2 involved scraping trending expressions over time from Le Monde publications.
+
+Q: What data formats did Diego work with in Project 2 of his Master's degree?
+A: Diego worked with JSON, XML, and pickle data formats in Project 2.
+
+Q: What libraries did Diego use in his NLP projects during his Master's degree?
+A: Diego used libraries such as spaCy, stanza, and trankit in his NLP projects.
+
+Q: What was the focus of Diego's Master's thesis in NLP?
+A: Diego's Master's thesis focused on fine-tuning a pre-trained model for automatic comment generation.
+
+Q: What libraries did Diego use for his Master's thesis project?
+A: Diego used libraries such as sklearn, transformers, PyTorch, pandas, numpy, HF, SpaCy, and Gensim for his Master's thesis project.
+
+Q: What is Diego's area of expertise in cuisine, according to his interests?
+A: Diego is an expert in Pasta cuisine, according to his interests.
+
+Q: What sport did Diego play and for how long?
+A: Diego played football for 15 years.
+
+Q: What is Diego's ELO rating in chess?
+A: Diego's ELO rating in chess is 1400.
+
+Q: What specific task did Diego perform with Elan files in the Autogramm project?
+A: Diego designed scripts for the conversion and processing of Elan files derived from voice recordings.
+
+Q: How did Diego's work in the Autogramm project contribute to linguistic research?
+A: Diego's work contributed to enriching typological and comparative studies of under-resourced languages.
+
+Q: What was the primary challenge in bridging linguistic labels and machine learning in the Autogramm project?
+A: The primary challenge was translating nuanced linguistic labels into formats usable by machine learning algorithms.
+
+Q: What type of linguistic resource did Diego help develop for Gbaya and Beja languages?
+A: Diego contributed to the development of treebanks for Gbaya and Beja languages.
+
+Q: How did Diego's work in the Autogramm project relate to descriptive grammars?
+A: Diego's work focused on the automated extraction of descriptive grammars from annotated corpora.
+
+Q: What was the significance of using voice recordings in the Autogramm project?
+A: Voice recordings provided raw linguistic data that needed to be transformed into structured formats for analysis.
+
+Q: What specific LLM architecture did Diego work on optimizing at WorldLine Lyon?
+A: Diego worked on optimizing the inference speed of open-source LLMs, particularly focusing on the BART model.
+
+Q: What technique did Diego use to refine the LLM model at WorldLine?
+A: Diego used mean pooling of the weights of the key and value components within the Multi-head Attention mechanism.
+
+Q: What dataset did Diego use for unsupervised fine-tuning of LLMs at WorldLine?
+A: Diego used the Slim Pajama dataset for unsupervised fine-tuning of LLMs.
+
+Q: What dataset did Diego use for instruction-based fine-tuning of LLMs at WorldLine?
+A: Diego used the Awesome dataset for instruction-based fine-tuning of LLMs.
+
+Q: What was the purpose of using GPT-3.5 in the LLM evaluation process at WorldLine?
+A: GPT-3.5 was used for additional verification of responses with scores between 0.70 and 0.85.
+
+Q: What specific improvement did Diego work on regarding LLM architecture at WorldLine?
+A: Diego worked on transitioning from the traditional Multi-head Attention mechanism to the Grouped Query Attention mechanism.
+
+Q: What was the main focus of Diego's work on the AutoGrammar Project at Laboratoire Modyco Nanterre?
+A: Diego focused on training an ML parser on Arboration and creating a usable treebank.
+
+Q: How long did Diego's internship at Laboratoire Modyco Nanterre last?
+A: Diego's internship at Laboratoire Modyco Nanterre lasted for four months, from April 2023 to July 2023.
+
+Q: What specific NLP task did Diego work on at InTechSolutions Srl Milano?
+A: Diego worked on sentiment analysis of client comments at InTechSolutions Srl Milano.
+
+Q: What type of data preprocessing did Diego perform at InTechSolutions?
+A: Diego worked on text preprocessing pipelines to prepare data for analysis.
+
+Q: How long was Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship at InTechSolutions Srl Milano lasted for six months, from April 2022 to September 2022.
+
+Q: What was the focus of Diego's Ph.D. project at Universit   de Paris 8?
+A: Diego's Ph.D. project focused on a unified analysis of partitive phrases in contemporary French.
+
+Q: What was unique about the duration of Diego's Ph.D. project?
+A: Diego's Ph.D. project had a notably short duration, lasting only from March 2019 to April 2019.
+
+Q: What grade did Diego achieve in his Master's degree in Linguistics at Universit   di Bologna?
+A: Diego achieved 110/110 with highest honors in his Master's degree in Linguistics.
+
+Q: What was the duration of Diego's Master's degree in Linguistics at Università di Bologna?
+A: Diego's Master's degree in Linguistics took three years, from 2016 to 2019.
+
+Q: What specific area of linguistics did Diego focus on in his Master's degree at Università di Bologna?
+A: Diego focused on contemporary French linguistics in his Master's degree.
+
+Q: How many hours of Udemy NLP courses did Diego complete?
+A: Diego completed a total of 41 hours of Udemy NLP courses.
+
+Q: What specific topics were covered in Diego's Udemy NLP Bootcamp course?
+A: The NLP Bootcamp course covered preprocessing, vectorization, and algorithms.
+
+Q: How long was Diego's Udemy course on Machine Learning in NLP?
+A: Diego's Udemy course on Machine Learning in NLP was 12 hours long.
+
+Q: What specific neural network architectures did Diego study in his Udemy NLP courses?
+A: Diego studied recurrent neural networks in his Udemy NLP courses.
+
+Q: What was the focus of the chunkers project in terms of text analysis?
+A: The chunkers project focused on real-time text data analysis, including cursor positions and character inputs.
+
+Q: How many stages of the writing process did the chunkers project analyze?
+A: The chunkers project analyzed three stages of the writing process: planning, formulation, and revision.
+
+Q: What tool did Diego use for automated data collection in the chunkers project?
+A: Diego used Selenium for automated data scraping in the chunkers project.
+
+Q: What was the main finding about pauses in the chunkers project?
+A: The project found that pauses frequently occur at chunk boundaries, especially between prepositional and nominal groups.
+
+Q: What machine learning models did Diego compare in his movie comment classification project?
+A: Diego compared Naive-Bayes (BernoulliNB) and Support Vector Machine (SVM) models.
+
+Q: What text representation technique did Diego use in the movie comment classification project?
+A: Diego used TF-IDF for text vectorization in the movie comment project.
+
+Q: What was the data split ratio in Diego's movie comment classification project?
+A: The data was split into 70% for training and 30% for testing.
+
+Q: What preprocessing steps did Diego apply in the movie comment classification project?
+A: Diego applied tokenizing, POS tagging, lemmatizing, and cleaning of punctuation and stop-words.
+
+Q: What was the main focus of Project 1 in Diego's NLP Master's program?
+A: Project 1 focused on semantic analysis of the word "banlieue" and its variants in Italian, English, and French.
+
+Q: What tools did Diego use for corpus preprocessing in Project 1 of his Master's degree?
+A: Diego used Bash scripts for information extraction and Python for corpus preprocessing.
+
+Q: What was the main task in Project 2 of Diego's NLP Master's program?
+A: Project 2 involved scraping trending expressions over time from Le Monde publications.
+
+Q: What data formats did Diego work with in Project 2 of his Master's degree?
+A: Diego worked with JSON, XML, and pickle data formats in Project 2.
+
+Q: What was the focus of Diego's Master's thesis in NLP?
+A: Diego's Master's thesis focused on fine-tuning a pre-trained model for automatic comment generation.
+
+Q: What deep learning library did Diego use in his Master's thesis project?
+A: Diego used PyTorch in his Master's thesis project.
+
+Q: What NLP-specific libraries did Diego use in his Master's thesis project?
+A: Diego used libraries such as transformers, SpaCy, and Gensim in his Master's thesis project.
+
+Q: What data manipulation libraries did Diego use in his NLP projects?
+A: Diego used pandas and numpy for data manipulation in his NLP projects.
+
+Q: What machine learning library did Diego use for traditional ML algorithms?
+A: Diego used sklearn (scikit-learn) for traditional machine learning algorithms.
+
+Q: What is Diego's area of culinary expertise, according to his interests?
+A: Diego is an expert in Pasta cuisine.
+
+Q: How long did Diego play football?
+A: Diego played football for 15 years.
+
+Q: What is Diego's chess skill level as indicated by his ELO rating?
+A: Diego's ELO rating in chess is 1400.
+
+Q: What specific rock band is mentioned in Diego's musical interests?
+A: Pink Floyd is mentioned in Diego's musical interests.
+
+Q: What type of driving license does Diego hold?
+A: Diego holds a type B driving license.
+
+Q: What cloud computing platform is Diego skilled in?
+A: Diego is skilled in Azure ML.
+
+Q: What containerization technology is Diego familiar with?
+A: Diego is familiar with Docker.
+
+Q: What version control system does Diego use?
+A: Diego uses Git for version control.
+
+Q: Where is Diego currently located according to his CV?
+A: According to his CV, Diego is located in Lyon.
+
+Q: What is Diego's primary email address for professional contacts?
+A: Diego's primary email address is diego.rossini418@gmail.com.
+
+Q: What is Diego's personal website URL?
+A: Diego's personal website URL is diegorossini.github.io.
+
+Q: How many languages does Diego speak fluently?
+A: Diego speaks three languages fluently: Italian, English, and French.
+
+Q: What is Diego's mother tongue?
+A: Diego's mother tongue is Italian.
+
+Q: What was Diego's role in the PPE1 project regarding the English language?
+A: In the PPE1 project, Diego analyzed the socio-linguistic usage of the term "suburb" in English.
+
+Q: What tool did Diego use for creating word clouds in the PPE1 project?
+A: Diego developed a Python script to generate word clouds for each language in the PPE1 project.
+
+Q: What analytical tool did Diego use in the PPE1 project for in-depth analysis?
+A: Diego used Itrameur for in-depth analysis of results in the PPE1 project.
+
+Q: What was the main focus of the PPE2 project?
+A: The PPE2 project focused on analyzing news topics and expressions from 2022 using topic modeling techniques.
+
+Q: What specific newspaper was the primary data source for the PPE2 project?
+A: The primary data source for the PPE2 project was publications from the newspaper "Le Monde".
+
+Q: What political event did Diego focus on in the PPE2 project?
+A: Diego focused on the French Presidential Elections in the PPE2 project.
+
+Q: How did Diego divide the analysis period for the French Presidential Elections in the PPE2 project?
+A: Diego divided the analysis into periods before, during, and after the elections.
+
+Q: What visualization tool did Diego use in the PPE2 project for topic modeling results?
+A: Diego used PyLDAvis to visualize and examine the coherence and utility of generated topics in the PPE2 project.
+
+Q: What was the purpose of using Bash scripts in Project 1 of Diego's Master's degree?
+A: Diego used Bash scripts for information extraction in Project 1 of his Master's degree.
+
+Q: What programming language did Diego primarily use for corpus preprocessing in his Master's projects?
+A: Diego primarily used Python for corpus preprocessing in his Master's projects.
+
+Q: What was the main challenge in the semantic substitution process for the modal verb project?
+A: The main challenge was the resource-intensive nature of available models and difficulties in handling French spoken language.
+
+Q: What tool did Diego use for corpus annotation in the modal verb project?
+A: Diego used Glozz for corpus annotation in the modal verb project.
+
+Q: How many interviews were annotated in the modal verb project?
+A: 24 interviews were annotated in the modal verb project.
+
+Q: What was the average length of the annotated interviews in the modal verb project?
+A: The average length of the annotated interviews was 15,000 tokens.
+
+Q: How many global modal categories were considered for "pouvoir" in Diego's project?
+A: Three global modal categories were considered: alethic, epistemic, and deontic.
+
+Q: What was the total number of "pouvoir" occurrences annotated in Diego's project?
+A: A total of 879 occurrences of "pouvoir" were manually annotated.
+
+Q: What model performed best in Diego's modal verb classification project?
+A: The Flaubert-base-cased model performed best, achieving an F1-score of 0.94.
+
+Q: What was the most frequent modal category for "pouvoir" in Diego's project?
+A: The most frequent category was physical possibility or ability, accounting for 51% of "pouvoir" instances.
+
+Q: What technique did Diego use for data augmentation in the modal verb project?
+A: Diego used lexical substitution with the cc.fr.300.bin model and gensim library for data augmentation.
+
+Q: What was the purpose of including context in the corpus for the modal verb project?
+A: Context was included to help the classifier better understand the modal sense of "pouvoir" and make more accurate predictions.
+
+Q: What future plans did Diego mention for expanding the modal verb project?
+A: Diego mentioned plans to include the verb "devoir" (must) in future work.
+
+Q: What was the ultimate goal of Diego's approach in the modal verb project?
+A: The ultimate goal was to identify which modal categories are prevalent in any given corpus.
+
+Q: What specific LLM architecture did Diego work with during his internship at WorldLine?
+A: Diego worked with the BART model during his internship at WorldLine.
+
+Q: What dataset did Diego use for evaluating LLM performance at WorldLine?
+A: Diego used the SQuAD v2 dataset for evaluating LLM responses.
+
+Q: What technique did Diego use for fine-tuning LLMs at WorldLine?
+A: Diego used Low-Rank Adaptation (LoRA) for fine-tuning LLMs.
+
+Q: What cloud platform did Diego use for LLM fine-tuning at WorldLine?
+A: Diego used Azure ML for LLM fine-tuning at WorldLine.
+
+Q: What was the start date of Diego's internship at WorldLine Lyon?
+A: Diego's internship at WorldLine Lyon started in March 2024.
+
+Q: What was the main task Diego performed in the AutoGrammar project at Laboratoire Modyco Nanterre?
+A: Diego's main task was training an ML parser on Arboration and creating a usable treebank.
+
+Q: What type of linguistic data did Diego work with in the AutoGrammar project?
+A: Diego worked with voice recordings and their annotations in the AutoGrammar project.
+
+Q: What was the duration of Diego's internship at Laboratoire Modyco Nanterre?
+A: Diego's internship at Laboratoire Modyco Nanterre lasted from April 2023 to July 2023.
+
+Q: What type of data did Diego analyze during his internship at InTechSolutions?
+A: Diego analyzed client comments for sentiment during his internship at InTechSolutions.
+
+Q: What was the duration of Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship at InTechSolutions Srl Milano lasted from April 2022 to September 2022.
+
+Q: What was the focus of Diego's Ph.D. project at Université de Paris 8?
+A: Diego's Ph.D. project focused on a unified analysis of partitive phrases in contemporary French.
+
+Q: What was the duration of Diego's Ph.D. project?
+A: Diego's Ph.D. project lasted from March 2019 to April 2019.
+
+Q: Where did Diego complete his Master's degree in Linguistics?
+A: Diego completed his Master's degree in Linguistics at Università di Bologna in Italy.
+
+Q: What grade did Diego achieve in his Master's degree in Linguistics?
+A: Diego achieved 110/110 with highest honors in his Master's degree in Linguistics.
+
+Q: What was the duration of Diego's Master's degree in Linguistics?
+A: Diego's Master's degree in Linguistics took from 2016 to 2019.
+
+Q: What Udemy NLP courses did Diego complete?
+A: Diego completed courses on Python for NLP, NLP Bootcamp, NLP with Python, and Machine Learning in NLP.
+
+Q: What was the total duration of Diego's Udemy NLP courses?
+A: The total duration of Diego's Udemy NLP courses was 41 hours.
+
+Q: What specific topics did Diego study in his Udemy NLP courses?
+A: Diego studied topics including preprocessing, vectorization, algorithms, neural networks, and chatbot construction.
+
+Q: How long was Diego's Machine Learning in NLP course?
+A: Diego's Machine Learning in NLP course was 12 hours long.
+
+Q: What is Diego's area of expertise in cuisine, according to his interests?
+A: Diego is an expert in Pasta cuisine, according to his interests.
+
+Q: What sport did Diego play and for how long?
+A: Diego played football for 15 years.
+
+Q: What specific task did Diego perform with the Multi-head Attention mechanism in his LLM project?
+A: Diego performed mean pooling on the weights of the key and value components in the Multi-head Attention mechanism.
+
+Q: What was the purpose of using the Slim Pajama dataset in Diego's LLM project?
+A: The Slim Pajama dataset was used for unsupervised fine-tuning of the LLM.
+
+Q: How did Diego use the Awesome dataset in his LLM project?
+A: Diego used the Awesome dataset for instruction-based fine-tuning of the LLM.
+
+Q: What was the significance of the 0.70 to 0.85 score range in Diego's LLM evaluation process?
+A: Responses with scores in this range underwent additional verification using GPT-3.5.
+
+Q: What specific improvement in LLM architecture did Diego work on at WorldLine?
+A: Diego worked on transitioning from Multi-head Attention to Grouped Query Attention mechanism.
+
+Q: What was the name of the automatic tool Diego used to count modal categories in his corpus?
+A: Diego used a tool named ModalE to count modal categories in the corpus.
+
+Q: How many interviews from the Eslo corpus did Diego include in his modal verb study?
+A: Diego included 207 interviews from the Eslo corpus in his study.
+
+Q: How many interviews from the CFPP corpus did Diego use in his modal verb research?
+A: Diego used 14 interviews from the CFPP corpus in his research.
+
+Q: What percentage of total modal markers did the word "bien" represent in Diego's corpus?
+A: The word "bien" represented 7.3% of the total modal markers in the corpus.
+
+Q: What percentage of total modal markers did the verb "dire" account for in Diego's study?
+A: The verb "dire" accounted for 6.9% of the total modal markers in the study.
+
+Q: What percentage of total modal markers was represented by "savoir" in Diego's corpus?
+A: "Savoir" represented 5.6% of the total modal markers in the corpus.
+
+Q: How many refined modal categories did Diego consider for "pouvoir" in his analysis?
+A: Diego considered 6 possible refined modal categories for "pouvoir" in his analysis.
+
+Q: What was the "broad" inter-annotator agreement score in Diego's modal verb project?
+A: The broad inter-annotator agreement score was 0.66 using Fleiss' Kappa.
+
+Q: How many sentences were in the context corpus for Diego's modal verb project?
+A: The context corpus contained 776 sentences with context.
+
+Q: What was the F1-score of the flaubert-base-cased model including the "O" class?
+A: The F1-score of the flaubert-base-cased model including the "O" class was 0.94.
+
+Q: What percentage of "permission" instances of "pouvoir" did Diego find in his final results?
+A: Permission accounted for 35% of "pouvoir" instances in the final results.
+
+Q: What specific challenge did Diego's model face with the "pouvoir of politeness" category?
+A: The model struggled to identify "pouvoir of permission" uses that didn't follow typical patterns.
+
+Q: What was the Italian equivalent of "suburb" used in Diego's PPE1 project?
+A: The Italian equivalent used was "PERIFERIA".
+
+Q: What was the Greek equivalent of "banlieue" used in the PPE1 project?
+A: The Greek equivalent used was "        ΣΤΙ  ".
+
+Q: What tool did Diego use for topic modeling in the PPE2 project?
+A: Diego used the run_lda.py script for topic modeling in the PPE2 project.
+
+Q: How did Diego contribute to the development of treebanks in the Autogramm project?
+A: Diego helped create treebanks for the Gbaya and Beja languages.
+
+Q: What was the purpose of the annotation schema Diego developed in the Autogramm project?
+A: The schema translated nuanced linguistic labels into formats usable by ML algorithms.
+
+Q: What specific task did Diego perform with voice recordings in the Autogramm project?
+A: Diego designed scripts for converting and processing voice recordings into structured data.
+
+Q: How did Diego's work in the Autogramm project contribute to linguistic research?
+A: His work contributed to enriching typological and comparative studies of under-resourced languages.
+
+Q: What was Diego's role in creating the usable treebank at Laboratoire Modyco Nanterre?
+A: Diego trained an ML parser on Arboration to create the usable treebank.
+
+Q: What type of text preprocessing did Diego perform at InTechSolutions?
+A: Diego developed text preprocessing pipelines to prepare data for analysis.
+
+Q: What was the focus of Diego's linguistics studies at Università di Bologna?
+A: Diego focused on contemporary French linguistics in his Master's degree.
+
+Q: How many hours was Diego's Udemy course on Python for NLP?
+A: This information is not provided in the given context.
+
+Q: What was the duration of Diego's NLP with Python course on Udemy?
+A: This information is not provided in the given context.
+
+Q: What specific type of neural network did Diego study for chatbot construction?
+A: This information is not provided in the given context.
+
+Q: How many chunkers did Diego evaluate in his real-time text analysis project?
+A: Diego evaluated four chunkers: SEM, TreeTagger, SpaCy, and NLTK.
+
+Q: What metrics did Diego use to evaluate chunkers besides F-measure?
+A: Diego used recall and precision to evaluate chunkers.
+
+Q: How did Diego prepare data for chunker analysis in his project?
+A: Diego reconstructed texts from recordings and created bigram phrases.
+
+Q: What was the purpose of using bigram phrases in Diego's chunker analysis?
+A: This information is not provided in the given context.
+
+Q: How did Diego use Selenium in his chunkers project?
+A: Diego used Selenium for automated data scraping to gather chunking results from SEM.
+
+Q: What specific type of SVM model did Diego use in his movie comment classification project?
+A: Diego used SVC (Support Vector Classification) in his movie comment classification project.
+
+Q: What type of Naive Bayes model did Diego use for movie comment classification?
+A: Diego used BernoulliNB for movie comment classification.
+
+Q: How did Diego handle class imbalance in his movie comment classification project?
+A: This information is not provided in the given context.
+
+Q: What specific library did Diego use for POS tagging in his movie comment project?
+A: This information is not provided in the given context.
+
+Q: How did Diego evaluate the performance of his movie comment classification models?
+A: Diego used classification reports and confusion matrices to evaluate model performance.
+
+Q: What was Diego's approach to handling multi-language analysis in the PPE1 project?
+A: This information is not provided in the given context.
+
+Q: How did Diego integrate the results from different languages in the PPE1 project?
+A: This information is not provided in the given context.
+
+Q: What specific period in 2022 did Diego focus on for the French Presidential Elections analysis?
+A: This information is not provided in the given context.
+
+Q: How many topics did Diego generate in his topic modeling for the PPE2 project?
+A: This information is not provided in the given context.
+
+Q: What method did Diego use to determine the optimal number of topics in the PPE2 project?
+A: This information is not provided in the given context.
+
+Q: How did Diego handle stop words in his NLP projects?
+A: Diego removed stop words as part of his text cleaning process.
+
+Q: What approach did Diego use for lemmatization in his NLP tasks?
+A: This information is not provided in the given context.
+
+Q: How did Diego handle non-standard or colloquial language in his text analysis projects?
+A: This information is not provided in the given context.
+
+Q: What method did Diego use for handling out-of-vocabulary words in his NLP models?
+A: This information is not provided in the given context.
+
+Q: How did Diego approach the challenge of context-dependent meaning in his modal verb project?
+A: Diego included contextual information by considering one speaker's phrase before and after the target sentence.
+
+Q: What was Diego's approach to handling multi-language analysis in the PPE1 project?
+A: Diego analyzed the term "banlieue" and its equivalents in Italian, French, English, and Modern Greek.
+
+Q: How did Diego integrate the results from different languages in the PPE1 project?
+A: This information is not explicitly provided in the given context.
+
+Q: What specific period in 2022 did Diego focus on for the French Presidential Elections analysis in the PPE2 project?
+A: The exact dates are not provided, but Diego analyzed periods before, during, and after the elections.
+
+Q: How many topics did Diego generate in his topic modeling for the PPE2 project?
+A: The specific number of topics is not mentioned in the given information.
+
+Q: What method did Diego use to determine the optimal number of topics in the PPE2 project?
+A: The method for determining the optimal number of topics is not specified in the given context.
+
+Q: How did Diego handle lemmatization in his NLP tasks?
+A: While it's mentioned that Diego performed lemmatization, the specific approach is not detailed.
+
+Q: How did Diego handle non-standard or colloquial language in his text analysis projects?
+A: The specific approach to handling non-standard language is not mentioned in the provided information.
+
+Q: What method did Diego use for handling out-of-vocabulary words in his NLP models?
+A: The method for handling out-of-vocabulary words is not specified in the given context.
+
+Q: What was Diego's approach to data cleaning in the PPE2 project?
+A: The specific data cleaning approach for the PPE2 project is not detailed in the given information.
+
+Q: How did Diego handle multi-word expressions in his NLP projects?
+A: The approach to handling multi-word expressions is not explicitly mentioned.
+
+Q: What techniques did Diego use for feature selection in his machine learning models?
+A: The specific feature selection techniques are not detailed in the provided information.
+
+Q: How did Diego address the challenge of sarcasm detection in sentiment analysis?
+A: The approach to sarcasm detection is not mentioned in the given context.
+
+Q: What methods did Diego employ for handling imbalanced datasets in his classification tasks?
+A: The methods for handling imbalanced datasets are not specified in the provided information.
+
+Q: How did Diego approach the task of named entity recognition in his NLP projects?
+A: The approach to named entity recognition is not detailed in the given context.
+
+Q: What techniques did Diego use for text summarization in his NLP work?
+A: Text summarization techniques are not mentioned in the provided information.
+
+Q: How did Diego handle multilingual text in his sentiment analysis projects?
+A: The approach to multilingual sentiment analysis is not specified in the given context.
+
+Q: What methods did Diego use for cross-validation in his machine learning models?
+A: While cross-validation is mentioned, the specific methods are not detailed.
+
+Q: How did Diego approach the task of text classification in languages other than French?
+A: The approach to text classification in other languages is not explicitly mentioned.
+
+Q: What techniques did Diego use for handling noisy labels in his datasets?
+A: The techniques for handling noisy labels are not specified in the provided information.
+
+Q: How did Diego address the challenge of context-dependent word meanings in his NLP tasks?
+A: While context is mentioned as important, the specific approach to context-dependent meanings is not detailed.
+
+Q: What methods did Diego use for error analysis in his machine learning models?
+A: The specific methods for error analysis are not mentioned in the given context.
+
+Q: How did Diego approach the task of coreference resolution in his NLP projects?
+A: The approach to coreference resolution is not detailed in the provided information.
+
+Q: What techniques did Diego use for data augmentation in projects other than the modal verb classification?
+A: Data augmentation techniques for other projects are not specified in the given context.
+
+Q: How did Diego handle the challenge of domain adaptation in his NLP models?
+A: The approach to domain adaptation is not mentioned in the provided information.
+
+Q: What methods did Diego use for hyperparameter tuning in his machine learning models?
+A: The specific methods for hyperparameter tuning are not detailed in the given context.
+
+Q: How did Diego approach the task of text style transfer in his NLP work?
+A: Text style transfer techniques are not mentioned in the provided information.
+
+Q: What techniques did Diego use for handling long-range dependencies in text?
+A: The approach to handling long-range dependencies is not specified in the given context.
+
+Q: How did Diego address the challenge of model interpretability in his NLP projects?
+A: The approach to model interpretability is not detailed in the provided information.
+
+Q: What methods did Diego use for dealing with data sparsity in his NLP tasks?
+A: The methods for dealing with data sparsity are not specified in the given context.
+
+Q: How did Diego approach the task of text generation in his NLP projects?
+A: While text generation is mentioned in his thesis, specific approaches are not detailed.
+
+Q: What techniques did Diego use for handling out-of-distribution samples in his models?
+A: The techniques for handling out-of-distribution samples are not mentioned in the given context.
+
+Q: How did Diego address the challenge of model robustness in his NLP work?
+A: The approach to ensuring model robustness is not specified in the provided information.
+
+Q: What methods did Diego use for dealing with concept drift in his machine learning models?
+A: The methods for dealing with concept drift are not detailed in the given context.
+
+Q: How did Diego approach the task of text alignment in his multilingual projects?
+A: The approach to text alignment is not mentioned in the provided information.
+
+Q: What techniques did Diego use for handling missing data in his datasets?
+A: The techniques for handling missing data are not specified in the given context.
+
+Q: How did Diego address the challenge of data privacy in his NLP projects?
+A: The approach to data privacy is not detailed in the provided information.
+
+Q: What methods did Diego use for ensemble learning in his machine learning models?
+A: The methods for ensemble learning are not specified in the given context.
+
+Q: How did Diego approach the task of text segmentation in his NLP work?
+A: While text segmentation is relevant to his chunkers project, specific approaches are not detailed.
+
+Q: What techniques did Diego use for handling adversarial attacks on his NLP models?
+A: The techniques for handling adversarial attacks are not mentioned in the given context.
+
+Q: How did Diego address the challenge of transfer learning in his NLP projects?
+A: While transfer learning is implied in his use of pre-trained models, specific approaches are not detailed.
+
+Q: What methods did Diego use for active learning in his machine learning models?
+A: The methods for active learning are not specified in the provided information.
+
+Q: How did Diego approach the task of dialogue state tracking in his NLP work?
+A: The approach to dialogue state tracking is not mentioned in the given context.
+
+Q: What techniques did Diego use for handling class imbalance in his classification tasks?
+A: The techniques for handling class imbalance are not specified in the provided information.
+
+Q: How did Diego address the challenge of model compression in his NLP projects?
+A: The approach to model compression is not detailed in the given context.
+
+Q: What methods did Diego use for dealing with data drift in his machine learning models?
+A: The methods for dealing with data drift are not specified in the provided information.
+
+Q: How did Diego approach the task of text simplification in his NLP work?
+A: The approach to text simplification is not mentioned in the given context.
+
+Q: What techniques did Diego use for handling multimodal data in his NLP projects?
+A: The techniques for handling multimodal data are not specified in the provided information.
+
+Q: How did Diego address the challenge of few-shot learning in his NLP tasks?
+A: The approach to few-shot learning is not detailed in the given context.
+
+Q: What methods did Diego use for explainable AI in his machine learning models?
+A: The methods for explainable AI are not specified in the provided information.
+
+Q: How did Diego approach the task of language model fine-tuning in his NLP work?
+A: While fine-tuning is mentioned, specific approaches beyond using LoRA are not detailed.
+
+Q: What specific French linguistic phenomena did Diego focus on in his Ph.D. project?
+A: Diego focused on partitive phrases in contemporary French.
+
+Q: How did Diego's work on the Autogramm project contribute to the field of computational linguistics?
+A: Diego's work contributed to the automated extraction of descriptive grammars from annotated corpora for under-resourced languages.
+
+Q: What was the primary challenge Diego faced when processing Elan files in the Autogramm project?
+A: The primary challenge was transforming raw linguistic data from voice recordings into a structured format suitable for analysis.
+
+Q: How did Diego's background in Italian linguistics influence his approach to French language analysis?
+A: This information is not provided in the given context.
+
+Q: What specific aspects of the French Presidential Elections did Diego analyze in the PPE2 project?
+A: The specific aspects are not detailed, but Diego analyzed periods before, during, and after the elections.
+
+Q: How did Diego integrate his knowledge of multiple languages in the PPE1 project?
+A: Diego analyzed the term "banlieue" and its equivalents across Italian, French, English, and Modern Greek.
+
+Q: What criteria did Diego use to select articles for analysis in the PPE1 project?
+A: Diego used the terms "banlieue" and "police" to search for relevant articles.
+
+Q: How did Diego's work on sentiment analysis at InTechSolutions differ from his academic projects?
+A: At InTechSolutions, Diego focused on analyzing client comments, which was likely more applied than his academic work.
+
+Q: What specific challenges did Diego encounter when working with spoken language data in his modal verb project?
+A: Diego faced challenges in handling the resource-intensive nature of models and difficulties specific to French spoken language.
+
+Q: How did Diego's approach to NLP evolve from his Master's degree to his professional internships?
+A: This evolution is not explicitly detailed in the given information.
+
+Q: What motivated Diego to focus on the modal verb "pouvoir" in his classification project?
+A: The motivation is not explicitly stated, but "pouvoir" was among the most frequent modal markers in the corpus.
+
+Q: How did Diego's work on chunkers contribute to the field of real-time text analysis?
+A: Diego's work provided insights into the relationship between pauses and chunk boundaries in real-time text production.
+
+Q: What specific insights did Diego gain about the use of "pouvoir" in spoken French?
+A: Diego found that physical possibility or ability was the most frequent category, accounting for 51% of "pouvoir" instances.
+
+Q: How did Diego's background in linguistics inform his approach to machine learning in NLP?
+A: This specific connection is not detailed in the provided information.
+
+Q: What challenges did Diego face when applying topic modeling techniques to news articles in the PPE2 project?
+A: Specific challenges are not mentioned, but Diego had to analyze topics across different time periods related to the French elections.
+
+Q: How did Diego's work on the AutoGrammar project contribute to the study of Gbaya and Beja languages?
+A: Diego contributed to the development of treebanks for these under-resourced languages.
+
+Q: What specific techniques did Diego use to improve the inference speed of LLMs at WorldLine?
+A: Diego worked on transitioning from Multi-head Attention to Grouped Query Attention mechanism.
+
+Q: How did Diego's approach to data augmentation in the modal verb project address the challenge of limited training data?
+A: Diego used lexical substitution with the cc.fr.300.bin model and gensim library to balance the distribution of modality categories.
+
+Q: What insights did Diego gain about the relationship between linguistic theory and machine learning practice in his projects?
+A: This specific insight is not detailed in the provided information.
+
+Q: How did Diego's work on partitive phrases in French contribute to broader linguistic theory?
+A: The specific contributions are not detailed in the given context.
+
+Q: What challenges did Diego face when applying NLP techniques to multiple languages in the PPE1 project?
+A: Specific challenges are not mentioned, but Diego had to analyze equivalent terms across four different languages.
+
+Q: How did Diego's approach to sentiment analysis evolve from his work at InTechSolutions to his later projects?
+A: This evolution is not explicitly detailed in the given information.
+
+Q: What specific techniques did Diego use to handle the nuances of spoken language in his modal verb classification project?
+A: Diego included contextual information by considering one speaker's phrase before and after the target sentence.
+
+Q: How did Diego's work on chunkers contribute to our understanding of cognitive processes in writing?
+A: Diego's work revealed that pauses frequently occur at chunk boundaries, particularly between prepositional and nominal groups.
+
+Q: What specific challenges did Diego face when working with historical French texts in his linguistic studies?
+A: Work with historical French texts is not mentioned in the provided information.
+
+Q: How did Diego's approach to NLP differ when working with formal vs. informal language?
+A: This difference in approach is not detailed in the given context.
+
+Q: What insights did Diego gain about the effectiveness of different BERT-based models for French language tasks?
+A: Diego found that the Flaubert-base-cased model was the most effective for modal sense classification of "pouvoir".
+
+Q: How did Diego's work on the Autogramm project contribute to the development of computational tools for linguistic fieldwork?
+A: Diego developed scripts for processing Elan files from voice recordings, potentially aiding in linguistic fieldwork.
+
+Q: What specific techniques did Diego use to handle ambiguity in modal verb usage?
+A: Diego used context expansion and data augmentation techniques to better capture ambiguous uses of "pouvoir".
+
+Q: How did Diego's approach to corpus linguistics evolve throughout his various projects?
+A: This evolution is not explicitly detailed in the given information.
+
+Q: What challenges did Diego face when applying machine learning techniques to linguistic problems in his projects?
+A: Specific challenges included handling the resource-intensive nature of models and dealing with French spoken language.
+
+Q: How did Diego's work on topic modeling contribute to our understanding of media coverage of political events?
+A: Diego's work provided insights into the evolution of news topics before, during, and after the French Presidential Elections.
+
+Q: What specific techniques did Diego use to improve the accuracy of his movie comment classification model?
+A: Diego used techniques such as TF-IDF for text vectorization and compared Naive-Bayes and SVM models.
+
+Q: How did Diego's approach to data preprocessing differ across his various NLP projects?
+A: While preprocessing steps are mentioned for some projects, a comparison across projects is not provided.
+
+Q: What insights did Diego gain about the effectiveness of different evaluation metrics in his NLP projects?
+A: Diego used various metrics including F1-score, precision, and recall, but specific insights are not detailed.
+
+Q: How did Diego's work on the PPE1 project contribute to our understanding of sociolinguistic variations across languages?
+A: Diego's work provided insights into the usage of equivalent terms for "banlieue" across different languages and contexts.
+
+Q: What specific challenges did Diego face when working with low-resource languages in the Autogramm project?
+A: Specific challenges are not mentioned, but Diego worked on creating resources (treebanks) for under-resourced languages.
+
+Q: How did Diego's approach to machine translation evolve throughout his studies and projects?
+A: Machine translation is not specifically mentioned in the provided information about Diego's work.
+
+Q: What insights did Diego gain about the relationship between syntactic structure and semantic meaning in his modal verb project?
+A: While Diego analyzed different semantic categories of "pouvoir", specific insights about syntax-semantics relationships are not detailed.
+
+Q: How did Diego's work on chunkers contribute to the field of natural language generation?
+A: The connection between Diego's chunkers work and natural language generation is not explicitly mentioned.
+
+Q: What specific techniques did Diego use to handle code-switching in his multilingual projects?
+A: Handling of code-switching is not mentioned in the provided information about Diego's work.
+
+Q: How did Diego's approach to neural network architecture selection evolve throughout his projects?
+A: While Diego worked with various models, including BERT-based ones, the evolution of his approach is not detailed.
+
+Q: What insights did Diego gain about the effectiveness of different data visualization techniques in his NLP projects?
+A: Diego used tools like PyLDAvis for topic modeling visualization, but specific insights are not mentioned.
+
+Q: How did Diego's work on the modal verb project contribute to our understanding of linguistic modality in French?
+A: Diego's work provided quantitative insights into the distribution of different modal categories for "pouvoir" in spoken French.
+
+Q: What specific challenges did Diego face when applying NLP techniques to historical linguistic analysis?
+A: Work with historical linguistic analysis is not mentioned in the provided information.
+
+Q: How did Diego's approach to feature engineering differ across his various machine learning projects?
+A: Specific details about feature engineering approaches are not provided in the given context.
+
+Q: What insights did Diego gain about the relationship between corpus size and model performance in his NLP projects?
+A: While Diego worked with various corpus sizes, specific insights about this relationship are not detailed.
+
+Q: How did Diego's work on sentiment analysis contribute to the field of opinion mining?
+A: While Diego performed sentiment analysis on client comments, specific contributions to opinion mining are not detailed.
+
+Q: What specific techniques did Diego use to handle negation in his NLP tasks?
+A: Techniques for handling negation are not specifically mentioned in the provided information.
+
+Q: How did Diego's approach to ethical considerations in NLP evolve throughout his studies and projects?
+A: Ethical considerations in NLP are not explicitly discussed in the given information about Diego's work.
+
+Q: How did Diego's experience with Italian influence his approach to French linguistics?
+A: The specific influence of Diego's Italian background on his French linguistic work is not detailed in the given information.
+
+Q: What methodologies did Diego employ in his analysis of partitive phrases in contemporary French?
+A: The specific methodologies used in Diego's Ph.D. project on partitive phrases are not provided in the context.
+
+Q: How did Diego's work contribute to the computational analysis of the Gbaya language?
+A: Diego contributed to the development of treebanks for Gbaya, but specific computational analyses are not detailed.
+
+Q: What techniques did Diego use to integrate linguistic theory with machine learning in the Autogramm project?
+A: While Diego worked on bridging linguistic labels and ML algorithms, specific techniques are not elaborated.
+
+Q: How did Diego approach the challenge of data scarcity in his work with under-resourced languages?
+A: The specific approaches to handling data scarcity in under-resourced languages are not mentioned.
+
+Q: What insights did Diego gain about the semantic evolution of the term "banlieue" across different languages?
+A: While Diego analyzed "banlieue" across languages, specific insights about semantic evolution are not provided.
+
+Q: How did Diego's work on modal verbs contribute to the field of computational pragmatics?
+A: The connection between Diego's modal verb work and computational pragmatics is not explicitly stated.
+
+Q: What techniques did Diego use to analyze the temporal aspects of topic evolution in the PPE2 project?
+A: Specific techniques for analyzing temporal aspects of topics are not detailed in the given information.
+
+Q: How did Diego's approach to sentiment analysis differ when working with formal versus informal text?
+A: The difference in approach for formal and informal text in sentiment analysis is not specified.
+
+Q: What methods did Diego use to evaluate the ecological validity of his NLP models?
+A: Specific methods for evaluating ecological validity are not mentioned in the provided context.
+
+Q: How did Diego's work on chunkers contribute to the field of cognitive linguistics?
+A: While Diego's work revealed patterns in pauses and chunk boundaries, specific contributions to cognitive linguistics are not detailed.
+
+Q: What techniques did Diego employ to handle dialectal variations in his French language analysis?
+A: Specific techniques for handling dialectal variations are not mentioned in the given information.
+
+Q: How did Diego's approach to data annotation evolve throughout his various projects?
+A: While annotation is mentioned in some projects, the evolution of Diego's approach is not detailed.
+
+Q: What insights did Diego gain about the relationship between syntactic complexity and pause patterns in his chunkers project?
+A: Specific insights about the relationship between syntax and pause patterns are not provided.
+
+Q: How did Diego's work on topic modeling contribute to the field of digital humanities?
+A: The connection between Diego's topic modeling work and digital humanities is not explicitly stated.
+
+Q: What techniques did Diego use to handle idiomatic expressions in his NLP tasks?
+A: Specific techniques for handling idiomatic expressions are not mentioned in the provided information.
+
+Q: How did Diego's approach to cross-lingual transfer learning evolve throughout his projects?
+A: Cross-lingual transfer learning is not explicitly discussed in the given context of Diego's work.
+
+Q: What insights did Diego gain about the effectiveness of different tokenization strategies in his NLP projects?
+A: Specific insights about tokenization strategies are not detailed in the provided information.
+
+Q: How did Diego's work on the AutoGrammar project contribute to the field of computational morphology?
+A: While Diego worked on grammar extraction, specific contributions to computational morphology are not mentioned.
+
+Q: What techniques did Diego use to handle zero-shot learning scenarios in his NLP tasks?
+A: Zero-shot learning scenarios and techniques are not explicitly discussed in the given information.
+
+Q: How did Diego's approach to handling linguistic ambiguity differ across his various projects?
+A: While ambiguity is mentioned in some contexts, a comparison across projects is not provided.
+
+Q: What insights did Diego gain about the relationship between linguistic register and sentiment expression?
+A: Specific insights about the relationship between register and sentiment are not detailed in the given context.
+
+Q: How did Diego's work on modal verbs contribute to the field of computational semantics?
+A: While Diego classified semantic values of "pouvoir", specific contributions to computational semantics are not elaborated.
+
+Q: What techniques did Diego employ to handle multi-label classification in his NLP tasks?
+A: Specific techniques for multi-label classification are not mentioned in the provided information.
+
+Q: How did Diego's approach to handling out-of-vocabulary words evolve throughout his projects?
+A: The evolution of Diego's approach to handling out-of-vocabulary words is not detailed in the given context.
+
+Q: What insights did Diego gain about the effectiveness of different attention mechanisms in his LLM work?
+A: While Diego worked on transitioning to Grouped Query Attention, specific insights are not provided.
+
+Q: How did Diego's work on the PPE1 project contribute to the field of contrastive linguistics?
+A: While Diego analyzed equivalent terms across languages, specific contributions to contrastive linguistics are not detailed.
+
+Q: What techniques did Diego use to handle temporal dependencies in his text analysis tasks?
+A: Specific techniques for handling temporal dependencies are not mentioned in the provided information.
+
+Q: How did Diego's approach to handling linguistic presuppositions evolve throughout his projects?
+A: The handling of linguistic presuppositions is not explicitly discussed in the given context of Diego's work.
+
+Q: What insights did Diego gain about the relationship between text coherence and topic distribution in his topic modeling work?
+A: Specific insights about the relationship between coherence and topic distribution are not provided.
+
+Q: How did Diego's work on chunkers contribute to the field of psycholinguistics?
+A: While Diego's work revealed patterns in text production, specific contributions to psycholinguistics are not detailed.
+
+Q: What techniques did Diego employ to handle metaphorical language in his NLP tasks?
+A: Specific techniques for handling metaphorical language are not mentioned in the provided information.
+
+Q: How did Diego's approach to handling linguistic co-reference evolve throughout his projects?
+A: The evolution of Diego's approach to handling co-reference is not detailed in the given context.
+
+Q: What insights did Diego gain about the effectiveness of different word embedding techniques in his NLP projects?
+A: While Diego likely used word embeddings, specific insights about their effectiveness are not provided.
+
+Q: How did Diego's work on the Autogramm project contribute to the field of linguistic typology?
+A: While Diego worked with different languages, specific contributions to linguistic typology are not mentioned.
+
+Q: What techniques did Diego use to handle discourse structure in his text analysis tasks?
+A: Specific techniques for handling discourse structure are not detailed in the provided information.
+
+Q: How did Diego's approach to handling linguistic modality differ in his work on French compared to other languages?
+A: While Diego focused on French modality, a comparison with other languages is not provided in the given context.
+
+Q: What insights did Diego gain about the relationship between syntactic parsing and semantic role labeling in his NLP work?
+A: Specific insights about the relationship between parsing and semantic role labeling are not detailed.
+
+Q: How did Diego's work on sentiment analysis contribute to the field of affective computing?
+A: The connection between Diego's sentiment analysis work and affective computing is not explicitly stated.
+
+Q: What techniques did Diego employ to handle linguistic hedging in his NLP tasks?
+A: Specific techniques for handling linguistic hedging are not mentioned in the provided information.
+
+Q: How did Diego's approach to handling linguistic politeness evolve throughout his projects?
+A: While politeness is mentioned in the modal verb project, the evolution of Diego's approach is not detailed.
+
+Q: What insights did Diego gain about the effectiveness of different regularization techniques in his machine learning models?
+A: Specific insights about regularization techniques are not provided in the given context.
+
+Q: How did Diego's work on the PPE2 project contribute to the field of computational journalism?
+A: While Diego analyzed news topics, specific contributions to computational journalism are not detailed.
+
+Q: What techniques did Diego use to handle linguistic aspect in his text analysis tasks?
+A: Specific techniques for handling linguistic aspect are not mentioned in the provided information.
+
+Q: How did Diego's approach to handling linguistic quantification evolve throughout his projects?
+A: The evolution of Diego's approach to handling quantification is not detailed in the given context.
+
+Q: What insights did Diego gain about the relationship between text genre and topic distribution in his topic modeling work?
+A: Specific insights about the relationship between genre and topic distribution are not provided.
+
+Q: How did Diego's work on chunkers contribute to the field of computational stylistics?
+A: While Diego's work involved text analysis, specific contributions to computational stylistics are not detailed.
+
+Q: What techniques did Diego employ to handle linguistic irony in his NLP tasks?
+A: Specific techniques for handling irony are not mentioned in the provided information.
+
+Q: How did Diego's approach to handling linguistic inference evolve throughout his projects?
+A: The evolution of Diego's approach to handling linguistic inference is not detailed in the given context.
+
+Q: What insights did Diego gain about the effectiveness of different model architectures in his work on LLM inference acceleration?
+A: While Diego worked on LLM inference acceleration, specific insights about model architectures are not provided.
+
+Q: What is Diego Rossini's current area of specialization?
+A: Diego Rossini specializes in NLP, LLM, ML, and AI.
+
+Q: Where is Diego Rossini currently located?
+A: Diego Rossini is currently located in Lyon.
+
+Q: What is Diego's primary email address?
+A: Diego's primary email address is diego.rossini418@gmail.com.
+
+Q: What type of driving license does Diego hold?
+A: Diego holds a type B driving license.
+
+Q: What programming language is listed under Diego's computer skills?
+A: Python is listed under Diego's computer skills.
+
+Q: What cloud platform is Diego skilled in?
+A: Diego is skilled in Azure ML.
+
+Q: What containerization technology is Diego familiar with?
+A: Diego is familiar with Docker.
+
+Q: How many languages does Diego speak fluently?
+A: Diego speaks three languages fluently: Italian, English, and French.
+
+Q: What is Diego's mother tongue?
+A: Diego's mother tongue is Italian.
+
+Q: What is Diego's GitHub username?
+A: Diego's GitHub username is @diegorossini418.
+
+Q: What is Diego's LinkedIn profile name?
+A: Diego's LinkedIn profile name is @diegorossini.
+
+Q: Where is Diego currently interning?
+A: Diego is currently interning at WorldLine Lyon in France.
+
+Q: What is the focus of Diego's current internship?
+A: Diego's current internship focuses on LLM Inference Acceleration.
+
+Q: What aspects of LLMs is Diego evaluating in his current internship?
+A: Diego is evaluating LLMs in terms of FLOPS, inference speed, and output performance.
+
+Q: What specific technique is Diego using for fine-tuning LLMs?
+A: Diego is using Low-Rank Adaptation (LoRA) for fine-tuning LLMs.
+
+Q: On which cloud platform is Diego performing LLM fine-tuning?
+A: Diego is performing LLM fine-tuning on Azure ML.
+
+Q: What specific LLM architecture is Diego working with in his current internship?
+A: Diego is working with GQA (Grouped Query Attention) mechanism on Open Source LLM.
+
+Q: Where did Diego complete his internship on the AutoGrammar Project?
+A: Diego completed his AutoGrammar Project internship at Laboratoire Modyco Nanterre in France.
+
+Q: What was the duration of Diego's internship at Laboratoire Modyco Nanterre?
+A: Diego's internship at Laboratoire Modyco Nanterre lasted from April 2023 to July 2023.
+
+Q: What was the main task Diego performed in the AutoGrammar project?
+A: Diego's main task was training an ML parser on Arboration and creating a usable treebank.
+
+Q: What type of files did Diego work with in the AutoGrammar project?
+A: Diego worked with Elan files from voice recordings in the AutoGrammar project.
+
+Q: Where did Diego complete his internship in Machine Learning?
+A: Diego completed his Machine Learning internship at InTechSolutions Srl Milano in Italy.
+
+Q: What was the duration of Diego's internship at InTechSolutions?
+A: Diego's internship at InTechSolutions lasted from April 2022 to September 2022.
+
+Q: What type of analysis did Diego perform during his internship at InTechSolutions?
+A: Diego performed sentiment analysis on client's comments at InTechSolutions.
+
+Q: Where is Diego currently pursuing his Master's degree in NLP?
+A: Diego is pursuing his Master's degree in NLP at Universit   de Nanterre in France.
+
+Q: What is Diego's average grade in his Master's program?
+A: Diego's average grade in his Master's program is 16/20.
+
+Q: What LLM-related topics has Diego studied in his Master's program?
+A: Diego has studied LLM: State of the Art, RAG, and LangChain: Prompt Templates, Agents, Chains.
+
+Q: What was the focus of Project 1 in Diego's NLP Master's program?
+A: Project 1 focused on semantic analysis of the word "banlieue" and its variants in Italian, English, and French.
+
+Q: What was the focus of Project 2 in Diego's NLP Master's program?
+A: Project 2 involved scraping trending expressions over time from Le Monde publications.
+
+Q: What data formats did Diego work with in Project 2 of his Master's degree?
+A: Diego worked with JSON, XML, and pickle data formats in Project 2.
+
+Q: What Udemy NLP courses has Diego completed?
+A: Diego has completed Python Bootcamp, NLP Bootcamp, NLP with Python, and Machine Learning in NLP.
+
+Q: How long was Diego's NLP Bootcamp course?
+A: Diego's NLP Bootcamp course was 17 hours long.
+
+Q: What was the duration of Diego's Machine Learning in NLP course?
+A: Diego's Machine Learning in NLP course was 12 hours long.
+
+Q: Where did Diego complete his Ph.D. project?
+A: Diego completed his Ph.D. project at Université de Paris 8 Paris.
+
+Q: What was the focus of Diego's Ph.D. project?
+A: Diego's Ph.D. project focused on a unified analysis of partitive phrases in contemporary French.
+
+Q: Where did Diego complete his Master's degree in Linguistics?
+A: Diego completed his Master's degree in Linguistics at Universit   di Bologna in Italy.
+
+Q: What grade did Diego achieve in his Master's degree in Linguistics?
+A: Diego achieved 110/110 with highest honors in his Master's degree in Linguistics.
+
+Q: How long did Diego play football?
+A: Diego played football for 15 years.
+
+Q: What is Diego's area of expertise in cuisine?
+A: Diego is an expert in Pasta cuisine.
+
+Q: What specific rock band is mentioned in Diego's musical interests?
+A: Pink Floyd is mentioned in Diego's musical interests.
+
+Q: What is Diego's ELO rating in chess?
+A: Diego's ELO rating in chess is 1400.
+
+Q: How many years of tennis experience does Diego have?
+A: Diego has 3 years of tennis experience.
+
+Q: What libraries did Diego use in his NLP projects during his Master's degree?
+A: Diego used libraries such as sklearn, transformers, PyTorch, pandas, numpy, HF, SpaCy, and Gensim.
+
+Q: What was the focus of Diego's Master's thesis in NLP?
+A: Diego's Master's thesis focused on fine-tuning a pre-trained model for automatic comment generation.
+
+Q: What specific task did Diego perform with Elan files in the AutoGrammar project?
+A: Diego designed scripts for the conversion and processing of Elan files derived from voice recordings.
+
+Q: What type of preprocessing did Diego perform at InTechSolutions?
+A: Diego worked on text preprocessing pipelines to prepare data for analysis at InTechSolutions.
+
+Q: What is the duration of Diego's current Master's program in NLP?
+A: Diego's current Master's program in NLP runs from September 2022 to June 2024.
+
+Q: What is the total duration of Diego's Udemy NLP courses?
+A: The total duration of Diego's Udemy NLP courses is 41 hours.
+
+Q: What was the duration of Diego's Ph.D. project?
+A: Diego's Ph.D. project lasted from March 2019 to April 2019.
+
+Q: What is Diego's personal website URL?
+A: Diego's personal website URL is diegorossini.github.io.
+
+Q: What is the most recent professional experience listed on Diego's CV?
+A: The most recent professional experience is an internship in LLM Inference Acceleration at WorldLine Lyon.
+
+Q: When did Diego start his internship at WorldLine Lyon?
+A: Diego started his internship at WorldLine Lyon in March 2024.
+
+Q: What specific task is Diego performing with LLM attention mechanisms at WorldLine?
+A: Diego is implementing GQA attention mechanism on Open Source LLM.
+
+Q: What is the purpose of the scripts Diego is designing at WorldLine?
+A: Diego is designing scripts to verify the degradation/improvement of LLM performance with different attention mechanisms.
+
+Q: How many professional internships are listed on Diego's CV?
+A: There are three professional internships listed on Diego's CV.
+
+Q: What was the primary focus of Diego's internship at Laboratoire Modyco Nanterre?
+A: The primary focus was the AutoGrammar Project.
+
+Q: What specific skill did Diego develop in relation to Elan files?
+A: Diego developed skills in designing scripts for the conversion and processing of Elan files from voice recordings.
+
+Q: What was the duration of Diego's internship at InTechSolutions Srl Milano?
+A: Diego's internship at InTechSolutions Srl Milano lasted for 6 months, from April 2022 to September 2022.
+
+Q: What type of pipelines did Diego work with at InTechSolutions?
+A: Diego worked with text preprocessing pipelines at InTechSolutions.
+
+Q: What is the highest level of education Diego has completed according to his CV?
+A: The highest level of education completed is a Master's Degree in Natural Language Processing (NLP).
+
+Q: At which university is Diego currently pursuing his NLP Master's degree?
+A: Diego is pursuing his NLP Master's degree at Universit   de Nanterre (FRANCE).
+
+Q: What is the expected completion date of Diego's current Master's program?
+A: The expected completion date is June 2024.
+
+Q: What specific LLM-related topic has Diego studied regarding prompt engineering?
+A: Diego has studied LangChain: Prompt Templates, Agents, Chains.
+
+Q: What task did Diego perform in relation to automatic comment generation?
+A: Diego worked on fine-tuning a pre-trained model for automatic comment generation.
+
+Q: What programming language did Diego use for corpus preprocessing in his projects?
+A: Diego used Python for corpus preprocessing in his projects.
+
+Q: What specific task did Diego perform with trending expressions in his Master's Project 2?
+A: Diego scraped trending expressions over time from Le Monde publications.
+
+Q: How many Udemy NLP courses are listed on Diego's CV?
+A: Four Udemy NLP courses are listed on Diego's CV.
+
+Q: What was the focus of Diego's NLP with Python course?
+A: The NLP with Python course focused on neural networks and chatbot construction.
+
+Q: How long was Diego's Python Bootcamp course?
+A: The duration of Diego's Python Bootcamp course is not specified in the CV.
+
+Q: What was the total duration of Diego's NLP-related Udemy courses?
+A: The total duration of Diego's NLP-related Udemy courses was 41 hours.
+
+Q: What was the timeframe of Diego's Udemy NLP course completion?
+A: Diego completed his Udemy NLP courses from February 2020 to April 2022.
+
+Q: What aspect of contemporary French did Diego focus on in his Ph.D. project?
+A: Diego focused on a unified analysis of partitive phrases in contemporary French.
+
+Q: How long did Diego's Ph.D. project last?
+A: Diego's Ph.D. project lasted for two months, from March 2019 to April 2019.
+
+Q: At which Italian university did Diego complete his Master's in Linguistics?
+A: Diego completed his Master's in Linguistics at Universit   di Bologna.
+
+Q: What was the duration of Diego's Master's degree in Linguistics?
+A: Diego's Master's degree in Linguistics lasted from 2016 to 2019.
+
+Q: How many social media profiles are listed on Diego's CV?
+A: Two social media profiles are listed on Diego's CV.
+
+Q: What is Diego's Twitter username?
+A: Diego's Twitter username is @DiegoRossini.
+
+Q: How many interests are listed in Diego's CV?
+A: Five interests are listed in Diego's CV.
+
+Q: What sport did Diego play for 15 years?
+A: Diego played football for 15 years.
+
+Q: In addition to football, what other sport is mentioned in Diego's interests?
+A: Tennis is mentioned as another sport in Diego's interests.
+
+Q: What genre of music is listed in Diego's interests?
+A: Rock music is listed in Diego's interests.
+
+Q: What board game is mentioned in Diego's interests?
+A: Chess is mentioned in Diego's interests.
+
+Q: What is the most recent year mentioned in Diego's educational background?
+A: The most recent year mentioned is 2024 (expected completion of his current Master's program).
+
+Q: How many different countries are mentioned in Diego's educational and professional experiences?
+A: Three countries are mentioned: France, Italy, and implicitly, an English-speaking country (due to English fluency).
+
+Q: What is the earliest year mentioned in Diego's CV?
+A: The earliest year mentioned is 2016 (start of his Master's in Linguistics).
+
+Q: How many different universities are mentioned in Diego's educational background?
+A: Four different universities are mentioned in Diego's educational background.
+
+Q: What is the most recent professional skill Diego has developed?
+A: The most recent professional skill is LLM Inference Acceleration.
+
+Q: What specific cloud platform is mentioned in Diego's computer skills?
+A: Azure ML is mentioned as a cloud platform in Diego's computer skills.
+
+Q: How many computer skills are explicitly listed on Diego's CV?
+A: Three computer skills are explicitly listed: Python, Azure ML, and Docker.
+
+Q: What is the most recent language-related technology Diego has worked with?
+A: The most recent language-related technology is LangChain, mentioned in his current Master's program.
+
+Q: What type of analysis did Diego perform on client data at InTechSolutions?
+A: Diego performed sentiment analysis on client's comments at InTechSolutions.
+
+Q: What specific LLM fine-tuning technique is mentioned in Diego's current internship?
+A: Low-Rank Adaptation (LoRA) is mentioned as the LLM fine-tuning technique.
+
+Q: What type of parser did Diego train in the AutoGrammar Project?
+A: Diego trained an ML parser on Arboration in the AutoGrammar Project.
+
+Q: What specific culinary expertise is mentioned in Diego's interests?
+A: Diego is mentioned as a Pasta Expert in his interests.
+
+Q: How many phone digits are visible in Diego's contact information?
+A: The last 8 digits of Diego's phone number are visible: 62 12 00.
+
+Q: What is the format of Diego's personal website URL?
+A: Diego's personal website URL is in the format of a GitHub Pages site (diegorossini.github.io).
+
+Q: What is the highest academic honor mentioned in Diego's CV?
+A: The highest academic honor mentioned is "highest honors" for his Master's degree in Linguistics.
+
+Q: What is the most recent programming framework mentioned in Diego's CV?
+A: LangChain is the most recent programming framework mentioned in Diego's CV.
+
+Q: How many distinct areas of AI/ML are listed in Diego's title?
+A: Four distinct areas are listed: NLP, LLM, ML, and AI.
+
+Q: What is the most specific chess-related information provided in Diego's CV?
+A: Diego's ELO rating of 1400 in chess is the most specific chess-related information provided.
+
+Q: What is the default model path used in the ModelArguments class?
+A: The default model path is "meta-llama/Llama-2-7b-chat-hf".
+
+Q: What is the default value for the 'use_fast_tokenizer' parameter?
+A: The default value for 'use_fast_tokenizer' is False.
+
+Q: What is the default output directory specified in ModelArguments?
+A: The default output directory is "./".
+
+Q: What is the default user prompt format in DataArguments?
+A: The default user prompt format is "llama2".
+
+Q: What is the default value for the 'pre_sft' parameter in TrainingArguments?
+A: The default value for 'pre_sft' is False.
+
+Q: What is the default batch size in TrainingArguments?
+A: The default batch size is 16.
+
+Q: What is the default learning rate in TrainingArguments?
+A: The default learning rate is 5e-5.
+
+Q: What is the default optimizer specified in TrainingArguments?
+A: The default optimizer is "adamw_apex_fused".
+
+Q: What is the default logging strategy in TrainingArguments?
+A: The default logging strategy is "steps".
+
+Q: What is the default number of logging steps in TrainingArguments?
+A: The default number of logging steps is 100.
+
+Q: What is the default save strategy in TrainingArguments?
+A: The default save strategy is "no".
+
+Q: What is the default value for the 'use_lora' parameter in AdapterArguments?
+A: The default value for 'use_lora' is True.
+
+Q: What are the default target modules for LoRA in AdapterArguments?
+A: The default target modules are ["q_proj", "v_proj"].
+
+Q: What is the default LoRA rank (r) in AdapterArguments?
+A: The default LoRA rank is 8.
+
+Q: What is the default LoRA alpha in AdapterArguments?
+A: The default LoRA alpha is 16.
+
+Q: What is the default LoRA dropout in AdapterArguments?
+A: The default LoRA dropout is 0.05.
+
+Q: What is the purpose of the SavingCallback class?
+A: The SavingCallback class is used to save model checkpoints during training.
+
+Q: What is the difference between SavingCallback and SavingCallbackHalf?
+A: SavingCallbackHalf saves the model in half precision (float16).
+
+Q: What is the purpose of the PromptFormatter class?
+A: The PromptFormatter class is used to format prompts for training and evaluation.
+
+Q: What template does the Llama2Prompt class use for training?
+A: The Llama2Prompt class uses a template that includes system message, instruction, and output.
+
+Q: What is the default system message in the Llama2Prompt class?
+A: The default system message is "You are a respectful assistant. Your answers will always be concise."
+
+Q: What function is used to merge PEFT models?
+A: The merge_peft_model function is used to merge PEFT models.
+
+Q: What is the model path specified in the model_args for the given example?
+A: The model path is "../../home/drossini/models/phi_mean_pooled/".
+
+Q: What tokenizer is specified in the model_args for the given example?
+A: The tokenizer specified is "microsoft/Phi-3-mini-128k-instruct".
+
+Q: What is the maximum model length specified in the model_args?
+A: The maximum model length specified is 2048.
+
+Q: What is the train file path specified in the data_args?
+A: The train file path is "../SlimPajama_chunk/slim_pajama_chunk_of_chunk.jsonl".
+
+Q: What is the dataset text field specified in the data_args?
+A: The dataset text field specified is "text".
+
+Q: Is pre-SFT enabled in the training_args for the given example?
+A: Yes, pre-SFT is set to True in the training_args.
+
+Q: What is the batch size specified in the training_args for the given example?
+A: The batch size specified is 2.
+
+Q: What is the learning rate specified in the training_args for the given example?
+A: The learning rate specified is 3e-5.
+
+Q: What optimizer is specified in the training_args for the given example?
+A: The optimizer specified is "adamw_hf".
+
+Q: What is the gradient accumulation steps value in the training_args?
+A: The gradient accumulation steps value is 2.
+
+Q: What is the logging directory specified in the training_args?
+A: The logging directory is "../Fine_tuning/pre_sft_logging_finetuning/".
+
+Q: What is the save strategy specified in the training_args?
+A: The save strategy is set to "steps".
+
+Q: What is the save steps value in the training_args?
+A: The save steps value is 1000.
+
+Q: What is the LoRA target module specified in the adapter_args?
+A: The LoRA target module specified is ["qkv_proj"].
+
+Q: What is the LoRA rank (r) specified in the adapter_args?
+A: The LoRA rank specified is 4.
+
+Q: What is the LoRA alpha specified in the adapter_args?
+A: The LoRA alpha specified is 8.
+
+Q: What function is used to prepare the training arguments?
+A: The prepare_args function is used to prepare the training arguments.
+
+Q: What class is used for the main training loop?
+A: The SFTTrainer class is used for the main training loop.
+
+Q: What dataset loading function is used in the train_clm function?
+A: The load_dataset function from the 'datasets' library is used.
+
+Q: What is the purpose of the DataCollatorForCompletionOnlyLM class?
+A: It's used to create a data collator for completion-only language modeling.
+
+Q: What environment variable is set before training?
+A: The 'PYTORCH_CUDA_ALLOC_CONF' environment variable is set to 'expandable_segments:True'.
+
+Q: What is the purpose of the huggingface_hub.login function?
+A: It's used to log in to the Hugging Face Hub using the provided token.
+
+Q: What model class is used to load the pre-trained model?
+A: The AutoModelForCausalLM class is used to load the pre-trained model.
+
+Q: What tokenizer class is used in the code?
+A: The AutoTokenizer class is used for tokenization.
+
+Q: What is set as the pad token for the tokenizer?
+A: The eos_token is set as the pad token for the tokenizer.
+
+Q: What is the split used when loading the dataset?
+A: The "train" split is used when loading the dataset.
+
+Q: What is the maximum sequence length used in the SFTTrainer?
+A: The maximum sequence length is set to model_args.model_max_length.
+
+Q: What exception is raised if neither pre_sft nor instruct_sft is specified?
+A: A ValueError is raised with the message "Please specify the training mode: pre_sft or instruct_sft".
+
+Q: What is the main purpose of the Chess Move Commentator project?
+A: The main purpose is to automatically generate commentary for chess moves using a pre-trained and fine-tuned BART model.
+
+Q: What university is this project associated with?
+A: The project is associated with Paris Nanterre University.
+
+Q: What type of corpus is used for training the model?
+A: The project uses a corpus of transcribed spoken semi-structured interviews.
+
+Q: What is the primary NLP task addressed in this project?
+A: The primary NLP task is modal sense classification for the French modal verb "pouvoir".
+
+Q: What notation is used to represent chess moves in the input?
+A: The project uses FEN (Forsyth-Edwards Notation) for move representation.
+
+Q: What backend framework is used for server implementation?
+A: FastAPI is used for server implementation.
+
+Q: What frontend technologies are used in the project?
+A: The frontend uses HTML, CSS, JavaScript, chessboard.js, and chess.js.
+
+Q: What pre-trained model is used as a base for fine-tuning?
+A: The project uses the BART model as a base for fine-tuning.
+
+Q: What alternative model is mentioned for experimentation?
+A: The MBART model is mentioned as an alternative approach.
+
+Q: What specific challenge did the project face regarding dataset distribution?
+A: The project had to overcome the challenge of biased distribution and sparsity of data.
+
+Q: What technique is used for improving chess-specific comment generation?
+A: The project implements fine-tuning of the BART model to improve chess-specific comment generation.
+
+Q: What multi-task approach is experimented with in the project?
+A: The project experiments with a multi-task approach balancing comment generation and move prediction.
+
+Q: What is the name of the script used for scraping links?
+A: The script used for scraping links is named "scraping_links.py".
+
+Q: What library is used for parsing HTML in the scraping process?
+A: BeautifulSoup is used for parsing HTML in the scraping process.
+
+Q: What format is used to store the scraped links?
+A: The scraped links are stored in a pickle file named "saved_links.p".
+
+Q: What is the purpose of the "find_saved_links_file()" function?
+A: This function searches the system for the "saved_links.p" file.
+
+Q: What regular expression pattern is used to capture links in the scraping process?
+A: The regex pattern used is r'https://gameknot.com/annotation.pl/[^\s]+'.
+
+Q: What model is downloaded in the "download_model()" function?
+A: The function downloads the BartForConditionalGeneration model.
+
+Q: What tokenizer is downloaded in the "download_tokenizer()" function?
+A: The function downloads the BartTokenizer.
+
+Q: What is the purpose of the "encode_fen()" function?
+A: This function encodes a FEN notation input for use in the model.
+
+Q: How is the training data prepared in the "get_X_and_y_encoded_comment()" function?
+A: The function extracts FEN notations and comments from CSV files, encodes them, and splits them into training and test sets.
+
+Q: What is the batch size used in the DataLoader for training?
+A: The batch size used is 4.
+
+Q: What optimizer is used for training the BART model?
+A: The AdamW optimizer is used for training the BART model.
+
+Q: What learning rate scheduler is used in the training process?
+A: A StepLR scheduler is used in the training process.
+
+Q: What is the purpose of the "evaluate_BART_model()" function?
+A: This function evaluates the trained model's performance on a test dataset.
+
+Q: How is the model's performance measured in the evaluation function?
+A: The model's performance is measured using accuracy (mean of correct predictions).
+
+Q: What is the purpose of the "comment_generation_model_test_2()" function?
+A: This function generates a comment for a given FEN input using the trained model.
+
+Q: What additional task does the project attempt besides comment generation?
+A: The project also attempts to predict the next move (UCI notation) given a FEN input.
+
+Q: What is the purpose of the "get_FEN_vocab()" function?
+A: This function creates a vocabulary of all unique characters used in FEN notations from the corpus.
+
+Q: How are special tokens added to the FEN vocabulary?
+A: Special tokens "<start_fen>" and "<end_fen>" are added at the beginning of the FEN vocabulary.
+
+Q: What is the purpose of the "get_st_notation_vocab()" function?
+A: This function creates a vocabulary of all standard notation moves from the corpus.
+
+Q: How does the project handle multi-language analysis?
+A: The project includes analysis of the term "banlieue" and its equivalents in Italian, French, English, and Modern Greek.
+
+Q: What is the purpose of the "select_reduced_corpus()" function?
+A: This function selects a smaller subset of the corpus for training, based on the number of moves in each game.
+
+Q: What range of move counts is used to select games for the reduced corpus?
+A: Games with between 50 and 80 moves are selected for the reduced corpus.
+
+Q: What is the purpose of the "encode_uci()" function?
+A: This function encodes UCI notation moves for use in the model.
+
+Q: How is the UCI vocabulary created in the "get_uci_vocab()" function?
+A: The function extracts unique start and end squares from UCI notations in the corpus.
+
+Q: What special tokens are added to the UCI vocabulary?
+A: Special tokens "<start_uci>" and "<end_uci>" are added to the UCI vocabulary.
+
+Q: What is the maximum sequence length used for encoding inputs?
+A: The maximum sequence length used is 64 tokens.
+
+Q: How does the project handle the challenge of limited GPU memory?
+A: The project includes code to clear GPU memory after each batch and epoch during training.
+
+Q: What is the purpose of the "train_BART_model_multitask()" function?
+A: This function trains the BART model on both comment generation and move prediction tasks simultaneously.
+
+Q: How does the project balance the loss between comment generation and move prediction?
+A: The losses from both tasks are summed before backpropagation in the multi-task training function.
+
+Q: What is the purpose of the "generate_comment_from_fen()" function?
+A: This function generates a comment for a given FEN notation using the trained multi-task model.
+
+Q: How does the project handle the potential for long training times?
+A: The training function includes a time limit, stopping training if it exceeds a specified duration.
+
+Q: What is the purpose of the FastAPI application in the project?
+A: The FastAPI application serves as the backend, handling requests and serving the frontend.
+
+Q: How is the chessboard displayed in the web interface?
+A: The chessboard is displayed using SVG generated by the chess.svg library.
+
+Q: What template engine is used for rendering HTML pages?
+A: Jinja2 is used as the template engine for rendering HTML pages.
+
+Q: How does the application handle FEN input from users?
+A: The application receives FEN input through a form submission, which is then processed to generate a comment.
+
+Q: What is the purpose of the "baseline()" function in mbart_comment.py?
+A: This function provides a baseline method for generating comments using the base MBart model.
+
+Q: How does the project handle different languages in the MBart model?
+A: The project sets the source language to Chinese and the target language to English for the MBart model.
+
+Q: What is the maximum length set for generated tokens in the comment generation process?
+A: The maximum length for generated tokens is set to 50 in the comment generation process.
+
+Q: What is the main objective of the PPE2 project?
+A: The main objective is to analyze topics and expressions that marked the news in 2022 in publications of the newspaper "Le Monde".
+
+Q: What technique is primarily used for analysis in the PPE2 project?
+A: The project primarily uses topic modeling techniques.
+
+Q: What specific newspaper is the focus of the analysis?
+A: The project focuses on publications from the newspaper "Le Monde".
+
+Q: What year does the project analyze?
+A: The project analyzes news from 2022.
+
+Q: What is one of the key features of the project?
+A: One key feature is the creation of a multilingual corpus of 2022 news focused on particularly significant periods.
+
+Q: What tool is used for topic model visualization?
+A: PyLDAvis is used for topic model visualization.
+
+Q: What script is used for topic modeling?
+A: The run_lda.py script is used for topic modeling.
+
+Q: What version control system is used in the project?
+A: GitLab is used for version control.
+
+Q: What libraries are used for text analysis?
+A: Spacy, Stanza, and Trankit are used for text analysis.
+
+Q: What libraries are used for XML file manipulation?
+A: Pathlib and Feedparser are used for XML file manipulation.
+
+Q: What specific political event is mentioned as a focus of analysis?
+A: The French Presidential Elections are mentioned as a focus of analysis.
+
+Q: How many team members are listed for the project?
+A: Three team members are listed: Mathilde Charlet, Diego Rossini, and Lilas Pastr  .
+
+Q: What is one of the notable achievements of the project?
+A: One notable achievement is successfully creating a comprehensive multilingual news corpus for 2022.
+
+Q: What type of scripts were developed for the project?
+A: Custom scripts were developed for lexicon extraction, word occurrence counting, and article categorization.
+
+Q: What is the purpose of the analyzers.py script?
+A: The analyzers.py script defines functions to analyze tokens in the text, extracting form, lemma, and part of speech.
+
+Q: What three libraries are used for text analysis in analyzers.py?
+A: Spacy, Trankit, and Stanza are used for text analysis.
+
+Q: What is the hierarchical structure of the data objects defined in datastructures.py?
+A: The hierarchical structure is Corpus[Article[Token]].
+
+Q: What is the purpose of the extract_many_base.py script?
+A: It filters articles based on given criteria and processes them for analysis.
+
+Q: What parsing methods are available in extract_many_base.py?
+A: The available parsing methods are regex, feedparser, and etree.
+
+Q: What output formats are supported by the project?
+A: The project supports XML, JSON, and pickle output formats.
+
+Q: What is the purpose of the extract_un_fil.py script?
+A: It extracts title and text from Le Monde articles using different parsing methods.
+
+Q: What three parsing methods are implemented in extract_un_fil.py?
+A: Regular expressions, feedparser, and etree are implemented.
+
+Q: What is the purpose of the format_output.py script?
+A: It transforms a Corpus object into JSON, pickle, or XML format.
+
+Q: What is the main function of the run_lda.py script?
+A: It performs topic modeling on the corpus extracted by extract_many_base.py.
+
+Q: What library is used for topic modeling in run_lda.py?
+A: Gensim is used for topic modeling.
+
+Q: What visualization library is used in run_lda.py?
+A: PyLDAvis is used for visualization.
+
+Q: What function is used to add bigrams in run_lda.py?
+A: The add_bigrams function is used, although it's noted that it's not currently in use.
+
+Q: What parameters can be set for the LDA model in run_lda.py?
+A: Parameters include minimum and maximum document frequency, number of topics, and number of iterations.
+
+Q: What metric is used to evaluate the quality of topics in run_lda.py?
+A: Topic coherence is used to evaluate the quality of topics.
+
+Q: What were the two main topics identified in the initial analysis of Le Monde articles?
+A: The two main topics were the French Presidential Elections and the war in Ukraine.
+
+Q: How many topics were used in the first visualization mentioned in the conclusions?
+A: The first visualization used 10 topics.
+
+Q: What was the average topic coherence in the first visualization?
+A: The average topic coherence was -7.7.
+
+Q: How many topics were used in the second visualization?
+A: The second visualization used 3 topics.
+
+Q: What was the average topic coherence in the second visualization?
+A: The average topic coherence was -8.1.
+
+Q: What additional topic emerged when focusing on the politics section?
+A: The topic of consulting firms (cabinets de conseil) emerged.
+
+Q: How many topics were used in the analysis of the politics section?
+A: 6 topics were used in the analysis of the politics section.
+
+Q: What was the average topic coherence for the politics section analysis?
+A: The average topic coherence was -3.9.
+
+Q: What time period was analyzed for the pre-first round election coverage?
+A: The period from March 26 to April 9, 2022 was analyzed.
+
+Q: How many topics were used in the analysis of the pre-first round period?
+A: 3 topics were used in the analysis of the pre-first round period.
+
+Q: What was the average topic coherence for the pre-first round analysis?
+A: The average topic coherence was -3.2.
+
+Q: What time period was analyzed for the between-rounds election coverage?
+A: The period from April 10 to April 24, 2022 was analyzed.
+
+Q: What was the average topic coherence for the between-rounds analysis?
+A: The average topic coherence was -2.4.
+
+Q: What time period was analyzed for the post-election coverage?
+A: The period from April 25 to May 9, 2022 was analyzed.
+
+Q: What was the average topic coherence for the post-election analysis?
+A: The average topic coherence was -3.9.
+
+Q: What new topic emerged in the post-election analysis?
+A: The topic of agreements for legislative elections emerged.
+
+Q: What political alliance was mentioned in the post-election analysis?
+A: The NUPES alliance was mentioned.
+
+Q: How did the coherence of topics change from pre-election to post-election periods?
+A: The coherence was highest during the between-rounds period and decreased in the post-election period.
+
+Q: What topic seemed to dominate the between-rounds period?
+A: The election itself seemed to dominate the between-rounds period.
+
+Q: What topic from the early analysis seemed to diminish in importance post-election?
+A: The topic of the war in Ukraine seemed to diminish in importance post-election.
+
+Q: What government-related topic emerged in the post-election analysis?
+A: The topic of the new government's policies and reforms emerged in the post-election analysis.
+
+Q: What is the main focus of the PPE1 project?
+A: The PPE1 project focuses on the socio-linguistic analysis of the term "banlieue" (suburb) in multiple languages.
+
+Q: How many languages are included in the project's analysis?
+A: The project analyzes four languages: Italian, French, English, and Modern Greek.
+
+Q: What is the primary objective of the PPE1 project?
+A: The main objective is to create a coherent and comparable multilingual corpus to study the differentiated use of the word "banlieue" across various socio-linguistic contexts.
+
+Q: What tool is used for data collection in the project?
+A: Google News is used for context-based data collection.
+
+Q: How is the collected data organized?
+A: The data is processed and organized in HTML tables.
+
+Q: What type of visual representation is used to display linguistic data?
+A: Word clouds are generated using Python to visually represent linguistic data.
+
+Q: What tool is used for in-depth result analysis?
+A: Itrameur is used for linguistic analysis and in-depth result analysis.
+
+Q: How are the project results presented?
+A: The results are presented through a web-based presentation of results and analyses.
+
+Q: What programming language is primarily used for data processing?
+A: Python is primarily used for data processing and word cloud generation.
+
+Q: What version control system is used in the project?
+A: Git and GitHub are used for version control and collaboration.
+
+Q: How many team members are involved in the project?
+A: Three team members are involved in the project.
+
+Q: What is Diego's language expertise in the project?
+A: Diego's expertise is in Italian (native) and English.
+
+Q: What is Mathilde's language expertise in the project?
+A: Mathilde's expertise is in French (native) and English.
+
+Q: What is Lilas' language expertise in the project?
+A: Lilas' expertise is in Modern Greek.
+
+Q: What is one of the notable achievements of the project?
+A: One notable achievement is successfully creating a multilingual corpus focused on the term "banlieue" and its equivalents.
+
+Q: What methodology was developed for the project?
+A: A robust methodology for socio-linguistic analysis across multiple languages was developed.
+
+Q: What is the purpose of the squelette_script.sh script?
+A: The script generates HTML tables with information about URLs, HTTP codes, titles, and other data related to the collected articles.
+
+Q: What HTML framework is used in the squelette_script.sh?
+A: Bootstrap is used as the HTML framework in the script.
+
+Q: What tool is used to extract text content from HTML files in the script?
+A: Lynx is used to extract text content from HTML files.
+
+Q: What is the purpose of the concordances.sh script?
+A: The script creates concordance tables for each language, showing the context of the target words.
+
+Q: How are the concordance tables structured?
+A: The concordance tables have three columns: left context, target word, and right context.
+
+Q: What is the purpose of the make_itrameur_corpus.sh script?
+A: The script prepares the corpus for analysis in iTrameur by formatting the text and adding appropriate XML tags.
+
+Q: How does the make_itrameur_corpus.sh script handle different languages?
+A: The script takes the language as an argument and processes files accordingly.
+
+Q: What text normalization is performed in the make_itrameur_corpus.sh script?
+A: The script performs lemmatization for certain words in each language.
+
+Q: What libraries are used in the wordcloud_script_python.py?
+A: The script uses libraries such as glob, string, nltk, wordcloud, and matplotlib.
+
+Q: How are stop words handled in the wordcloud_script_python.py?
+A: Stop words for each language are downloaded and used to filter out non-significant words.
+
+Q: What text preprocessing steps are performed in the wordcloud_script_python.py?
+A: The script performs tokenization, stop word removal, punctuation removal, and lemmatization.
+
+Q: How many words are displayed in the generated word cloud?
+A: The word cloud displays a maximum of 20 words.
+
+Q: What was observed about the use of "periferia" in the Italian corpus?
+A: The term "periferia" was used in a geographical context but also associated with police and security-related terms.
+
+Q: What relationship was observed between "periferia" and "centro" in the Italian corpus?
+A: "Periferia" appeared to be in opposition to "centro" (center), both geographically and conceptually.
+
+Q: What themes were associated with "      ά    ι  " in the Greek corpus?
+A: The term was associated with geographical locations but also with themes of police, violence, and drugs.
+
+Q: What specific geographical area was prominent in the Greek corpus?
+A: The Attica region, particularly the suburbs of Athens, was prominent in the Greek corpus.
+
+Q: How were the northern and southern suburbs of Athens represented differently?
+A: The southern suburbs were more associated with dangerous or illegal activities compared to the northern suburbs.
+
+Q: What themes were associated with "suburb" in the English corpus?
+A: "Suburb" was associated with geographical terms, affluence, and issues related to short-term rentals like Airbnb.
+
+Q: Did the English corpus show a strong association between "suburb" and crime or violence?
+A: No, the term "suburb" was not strongly associated with crime or violence in the English corpus.
+
+Q: What was unique about the representation of "suburb" in the English corpus compared to other languages?
+A: The English corpus showed a more diverse representation of suburbs, including both affluent areas and those associated with crime, without strong geographical specificity.
+
+Q: What themes were associated with "banlieue" in the French corpus?
+A: "Banlieue" was associated with geographical terms, police, violence, youth, and media representation.
+
+Q: What specific geographical area was prominent in the French corpus?
+A: The Parisian suburbs, particularly Seine-Saint-Denis and Clichy-sous-Bois, were prominent in the French corpus.
+
+Q: How was media representation of "banlieue" characterized in the French corpus?
+A: The corpus showed a focus on the media representation of banlieues, often associated with police action and youth.
+
+Q: What historical reference was found in the French corpus related to "banlieue"?
+A: There was a reference to "banlieues 89", an association from the 1980s.
+
+Q: How did the project handle the challenge of creating comparable corpora across different languages?
+A: The project developed custom scripts and methodologies to collect, process, and analyze data consistently across languages.
+
+Q: What was the purpose of creating concordance tables in the project?
+A: Concordance tables were created to show the immediate context in which the target words (e.g., "banlieue", "suburb") appeared in each language.
+
+Q: How did the project address the issue of different writing systems (e.g., Greek alphabet)?
+A: The project used language-specific processing in scripts, such as handling Greek characters in the wordcloud and concordance scripts.
+
+Q: What role did lemmatization play in the project?
+A: Lemmatization was used to normalize words across different grammatical forms, improving the accuracy of frequency counts and word associations.
+
+Q: How did the project handle multi-word expressions related to the concept of "suburb"?
+A: The project's scripts, particularly the concordance script, were designed to capture phrases and collocations related to the target words.
+
+Q: What was the purpose of using iTrameur in the project?
+A: iTrameur was used for in-depth linguistic analysis, particularly for examining word co-occurrences and semantic networks.
+
+Q: How did the project address potential biases in news sources?
+A: By using Google News and collecting a large number of articles, the project aimed to get a broad representation of language use across different sources.
+
+Q: What role did visualization play in the project's analysis?
+A: Visualization, particularly word clouds and co-occurrence networks, played a crucial role in identifying and presenting key themes and associations.
+
+Q: How did the project handle differences in article length and content across languages?
+A: The project used consistent processing methods, such as focusing on specific contexts around target words, to create comparable datasets across languages.
+
+Q: What insights did the project provide about the cultural and linguistic differences in the concept of "suburb" across the studied languages?
+A: The project revealed different associations and connotations of "suburb" across languages, reflecting cultural, social, and media representations specific to each linguistic context.
+
+Q: What is the main objective of the Modal Verbs Modality Detector project?
+A: The main objective is to create a machine learning model capable of identifying and analyzing the usage of modal verbs in text, specifically focusing on detecting modal verbs and determining their modality.
+
+Q: What types of modality does the project aim to classify?
+A: The project aims to classify expressions of necessity, possibility, permission, or obligation.
+
+Q: What programming language is primarily used in this project?
+A: Python is primarily used for NLP and machine learning tasks in this project.
+
+Q: What machine learning libraries are mentioned for use in the project?
+A: The project mentions using libraries such as scikit-learn, TensorFlow, or PyTorch.
+
+Q: What NLP tools and libraries are used in the project?
+A: The project uses NLP tools and libraries such as NLTK and spaCy.
+
+Q: What metrics are used to evaluate the model's performance?
+A: The model's performance is evaluated using precision, recall, and F1-score metrics.
+
+Q: What was one of the main challenges in handling the dataset?
+A: One main challenge was dealing with ambiguous cases where context heavily influences modality interpretation.
+
+Q: What type of corpus was compiled for the project?
+A: A diverse and well-annotated corpus was compiled for training and testing the model.
+
+Q: What is the name of the comprehensive article detailing the project process?
+A: The article is named COLLI_ROSSINI_BATTISTELLI.
+
+Q: How many team members are mentioned for this project?
+A: Three team members are mentioned: Colli, Rossini, and Battistelli.
+
+Q: What is the GitHub repository for this project?
+A: The GitHub repository is https://github.com/DiegoRossini/Modal-verbs-modality-detector.
+
+Q: What data augmentation technique is used in the project?
+A: The project uses lexical substitution for data augmentation.
+
+Q: What model is used for lexical substitution in data augmentation?
+A: The cc.fr.300.bin model is used for lexical substitution.
+
+Q: What library is used alongside the word embedding model for data augmentation?
+A: The gensim library is used alongside the word embedding model for data augmentation.
+
+Q: How many distinct datasets were prepared for the project?
+A: Four distinct datasets were prepared for the project.
+
+Q: What is the size of the base corpus in terms of sentences?
+A: The base corpus contains 776 sentences with at least one occurrence of "pouvoir".
+
+Q: How many sentences are in the augmented dataset?
+A: The augmented dataset contains 1716 sentences.
+
+Q: What additional information is included in the context dataset?
+A: The context dataset includes one speaker's phrase before and after the sentence containing "pouvoir".
+
+Q: What was the primary evaluation metric used in the experiments?
+A: The primary evaluation metric used was the F1-score.
+
+Q: Why was the F1-score particularly crucial for this project?
+A: The F1-score was crucial due to significant class imbalance in the dataset.
+
+Q: What percentage of the dataset was labeled as the non-pouvoir class "O"?
+A: Over 97% of the dataset constituted the non-pouvoir class labeled "O".
+
+Q: What model was initially used to experiment with different datasets?
+A: The camembert-base model was initially used to experiment with different datasets.
+
+Q: How many epochs were used in the initial experiments with the camembert-base model?
+A: Seven epochs were used in the initial experiments with the camembert-base model.
+
+Q: What was the best performing model for modal classification of the French verb "pouvoir"?
+A: The flaubert-base-cased model was the best performing model.
+
+Q: What was the F1-score achieved by the best performing model?
+A: The flaubert-base-cased model achieved an F1-score of 0.94.
+
+Q: What was the F1-score of the best model when the "O" class was excluded?
+A: The F1-score was 0.92 when the "O" class was excluded.
+
+Q: What specific modalities did the model excel in distinguishing?
+A: The model excelled in distinguishing "eventuality" and "permission" modalities.
+
+Q: With which category did the model encounter some challenges?
+A: The model encountered challenges with the "material possibility or ability" category.
+
+Q: What tool was particularly challenging to use for semantic substitution?
+A: FastText was particularly challenging to use for semantic substitution.
+
+Q: What specific difficulty did Spacy and FastText demonstrate with the French language?
+A: Spacy and FastText demonstrated significant difficulties leading to inconsistencies during lexical substitution.
+
+Q: What was the second-best classified category according to the model results?
+A: "Permission" was the second-best classified category with an f-score of 0.95.
+
+Q: What percentage of permission annotations followed two typical structures?
+A: 40% of permission annotations followed two typical structures.
+
+Q: What is one of the typical structures for "pouvoir" of permission mentioned?
+A: One typical structure is the "pouvoir of politeness", a question that allows the subject to express a request politely.
+
+Q: What is the other typical structure for "pouvoir" of permission mentioned?
+A: The other typical structure is the expression "je/nous/on" + "pouvoir" + "dire".
+
+Q: What was the most frequent category of "pouvoir" instances in the full corpus?
+A: The category of physical possibility or ability was the most frequent, accounting for 51% of "pouvoir" instances.
+
+Q: What percentage of "pouvoir" instances were classified as permission?
+A: 35% of "pouvoir" instances were classified as permission.
+
+Q: What percentage of "pouvoir" instances were classified as eventuality?
+A: 9% of "pouvoir" instances were classified as eventuality.
+
+Q: What percentage of "pouvoir" instances were classified as sporadicity?
+A: 5% of "pouvoir" instances were classified as sporadicity.
+
+Q: What was the most representative global modal category?
+A: The alethic category was the most representative, accounting for 56% of instances.
+
+Q: What annotation tool was used for manual annotation of the corpus?
+A: Glozz was used for manual annotation of the corpus.
+
+Q: How many interviews were annotated from the ES_CF corpus?
+A: 24 interviews were annotated from the ES_CF corpus.
+
+Q: What was the average length of the annotated interviews?
+A: The average length of the annotated interviews was 15,000 tokens.
+
+Q: What measure was used to calculate inter-annotator agreement?
+A: Fleiss' Kappa was used to calculate inter-annotator agreement.
+
+Q: What was the "strict" inter-annotator agreement score?
+A: The "strict" inter-annotator agreement score was 0.6.
+
+Q: What was the "broad" inter-annotator agreement score?
+A: The "broad" inter-annotator agreement score was 0.66.
+
+Q: How many occurrences of "pouvoir" were manually annotated in the corpus?
+A: 879 occurrences of "pouvoir" were manually annotated in the corpus.
+
+Q: What future work is suggested to improve the model?
+A: Future work suggestions include expanding and enriching the dataset, and considering training on full texts instead of isolated sentences.
+
+Q: What specific enhancement is suggested for future experiments?
+A: It is suggested to experiment with an augmented context window of 10 lines before and after the target token.
+
+Q: What other verb is mentioned as a future addition to the project?
+A: The verb "devoir" (must) is mentioned as a future addition to the project.
+
+Q: What is stated as the ultimate goal of the approach?
+A: The ultimate goal is to be able to identify which modal categories are prevalent in any given corpus.
+
+Q: What is the main focus of this project?
+A: The project focuses on applying chunking techniques to real-time text data analysis.
+
+Q: How many chunkers are evaluated in this project?
+A: Four chunkers are evaluated: SEM, TreeTagger, SpaCy, and NLTK.
+
+Q: What types of real-time data does the project analyze?
+A: The project analyzes cursor positions, typed or deleted characters, spaces, and final texts.
+
+Q: How many writing stages are considered in the analysis?
+A: Three writing stages are considered: planning, formulation, and revision.
+
+Q: What is one of the key investigations in this project?
+A: The project investigates the relationship between pauses and word groups in text production.
+
+Q: What tool is used for automated data scraping?
+A: Selenium is used for automated data scraping.
+
+Q: What programming language is assumed to be used for data processing and analysis?
+A: Python is assumed to be used for data processing and analysis.
+
+Q: What are the main evaluation metrics used in the project?
+A: The main evaluation metrics are recall, precision, and F-measure.
+
+Q: What was one of the notable achievements of the project?
+A: The project successfully applied chunking techniques to real-time text data.
+
+Q: What specific correlation was identified in the project?
+A: Correlations were identified between pauses and chunk boundaries, particularly between prepositional and nominal groups.
+
+Q: Which chunker was found to be particularly effective for analyzing real-time text data?
+A: SEM was demonstrated to be effective for analyzing real-time text data.
+
+Q: What methodology was created as part of the project?
+A: A methodology for reconstructing texts from real-time recordings for chunker analysis was created.
+
+Q: What is the GitHub repository for this project?
+A: The GitHub repository is https://github.com/DiegoRossini/Projet-Realtime-Text-Chunking.
+
+Q: What Python library is used for data manipulation in the provided code snippet?
+A: Pandas is used for data manipulation.
+
+Q: What natural language processing library is imported in the code?
+A: NLTK (Natural Language Toolkit) is imported.
+
+Q: What encoding is used when reading the CSV file?
+A: UTF-8 encoding is used when reading the CSV file.
+
+Q: What column from the CSV file contains the written text from the research experiment?
+A: The "burst" column contains the written text.
+
+Q: What technique is used to create word pairs from the cleaned text?
+A: NLTK's bigrams function is used to create word pairs.
+
+Q: What symbol is used to represent pauses in the text?
+A: The "@" symbol is used to represent pauses.
+
+Q: What web browser is used with Selenium for scraping?
+A: Firefox is used with Selenium for scraping.
+
+Q: What is the URL of the SEM chunker used in the project?
+A: The URL is https://apps.lattice.cnrs.fr/sem/index.
+
+Q: How does the script handle cookies and popup windows on the SEM website?
+A: The script dismisses alerts and waits for a short time to handle cookies and popups.
+
+Q: In what format does the script download the chunking results from SEM?
+A: The results are downloaded as a text file.
+
+Q: How does the script clean up after downloading the chunking results?
+A: The script removes the downloaded file after processing its content.
+
+Q: What regular expression is used to identify pauses in the text?
+A: A complex regex is used to identify words or characters before and after the "@" symbol.
+
+Q: How does the script handle cases where a pause is at the beginning or end of a bigram?
+A: It inserts "^" at the beginning or "$" at the end of the pause context.
+
+Q: What method is used to tokenize words in the pause context?
+A: NLTK's word_tokenize function is used.
+
+Q: How does the script handle potential errors when processing the chunked text?
+A: The script uses a series of try-except blocks to handle different text patterns.
+
+Q: What specific chunk label had to be corrected after processing?
+A: The "Adp" chunk label was corrected, as it was initially split into "dP".
+
+Q: How many files are created in the chunking and pause insertion process?
+A: At least three files are created: one without pauses, one with pauses, and a final corrected version.
+
+Q: What is the purpose of the "burst_clean_no_pause" variable?
+A: It contains bigrams without pause symbols, used for input to the SEM chunker.
+
+Q: What is the purpose of the "burst_clean_with_pause" variable?
+A: It contains bigrams with pause symbols, used later for inserting pauses into the chunked output.
+
+Q: How does the script ensure that the Selenium browser runs in headless mode?
+A: It uses Firefox options with headless set to True.
+
+Q: What is the purpose of the "write_chunks_from_bigrams_burst" function?
+A: It processes each bigram through the SEM chunker and writes the results to a file.
+
+Q: How does the script handle empty bigrams?
+A: It writes a newline character to the output file and continues to the next bigram.
+
+Q: What is the purpose of the "pauses_entre_mot" list?
+A: It stores the context (words before and after) of each pause for later insertion.
+
+Q: How does the script handle special characters in French text?
+A: It includes a range of French accented characters in its regular expressions.
+
+Q: What is the purpose of the final file writing process?
+A: It inserts the pause symbols into the correct positions within the chunked text.
+
+Q: How does the script determine where to insert pause symbols in the chunked text?
+A: It uses regular expressions to find the appropriate positions between chunks.
+
+Q: What is the significance of the ") (" pattern in the chunked text?
+A: It represents the boundary between two chunks where a pause might be inserted.
+
+Q: How does the script handle cases where the pause should be inside a chunk?
+A: It inserts the pause symbol directly after the relevant word without splitting the chunk.
+
+Q: What is the purpose of the final correction step involving "Adp" chunks?
+A: It corrects a specific chunking error where "Adp" was incorrectly split.
+
+Q: How many stages of file processing are there in the entire script?
+A: There are at least three stages: initial chunking, pause insertion, and final correction.
+
+Q: What is the assumed format of the input CSV file?
+A: It's assumed to be a tab-separated file with at least a "burst" column containing the text data.
+
+Q: How does the script handle potential encoding issues in the input data?
+A: It explicitly specifies UTF-8 encoding when reading and writing files.
+
+Q: What is the purpose of the time.sleep() calls in the Selenium scraping process?
+A: They introduce delays to allow for page loading and to avoid overwhelming the server.
+
+Q: How does the script ensure that all downloaded files are properly cleaned up?
+A: It uses os.remove() to delete the downloaded files after processing.
+
+Q: What assumption does the script make about the download location of SEM output files?
+A: It assumes they are downloaded to the "/home/diego/Downloads/" directory.
+
+Q: How does the script handle potential variations in the SEM output format?
+A: It uses flexible regular expressions and multiple try-except blocks to handle variations.
+
+Q: What is the final output of the entire process?
+A: The final output is a file containing the original text, chunked and with pause symbols inserted at appropriate positions.
+
+Q: What is the main objective of this project?
+A: To classify movie comments into positive and negative categories using NLP and machine learning techniques.
+
+Q: What type of data does this project analyze?
+A: The project analyzes movie reviews or comments.
+
+Q: What are the two main classification categories used in this project?
+A: The two main categories are positive and negative sentiments.
+
+Q: What programming language is assumed to be used for this project?
+A: Python is assumed to be used for data processing and analysis.
+
+Q: What NLP libraries are mentioned for text preprocessing?
+A: NLTK and spaCy are mentioned as examples of NLP libraries used.
+
+Q: What machine learning library is used for model implementation and evaluation?
+A: Scikit-learn is used for machine learning models and evaluation.
+
+Q: What text vectorization technique is used in this project?
+A: TF-IDF (Term Frequency-Inverse Document Frequency) is used for text vectorization.
+
+Q: What two main classification models are implemented and compared?
+A: Naive-Bayes (BernoulliNB) and Support Vector Machine (SVM) classifiers are implemented and compared.
+
+Q: What is the data split ratio for training and testing?
+A: The data is split into 70% for training and 30% for testing.
+
+Q: What preprocessing steps are mentioned in the project description?
+A: Tokenization, POS tagging, lemmatization, and cleaning (removing punctuation and stop-words) are mentioned.
+
+Q: What evaluation metrics are used to assess model performance?
+A: Classification reports and confusion matrices are used as evaluation metrics.
+
+Q: What is the GitHub repository for this project?
+A: The GitLab repository is https://gitlab.com/diego.rossini418/fouille_de_textes.
+
+Q: What pandas function is used to create the initial dataframes?
+A: pd.DataFrame() is used to create the initial dataframes.
+
+Q: How are the positive and negative comment dataframes combined?
+A: The dataframes are combined using pd.concat().
+
+Q: What method is used to shuffle the combined dataframe?
+A: The sample() method with frac=1 is used to shuffle the dataframe.
+
+Q: What NLTK function is used for tokenization?
+A: word_tokenize() from NLTK is used for tokenization.
+
+Q: What NLTK class is used for lemmatization?
+A: WordNetLemmatizer from NLTK is used for lemmatization.
+
+Q: How are stop words removed from the text?
+A: Stop words are removed using a list comprehension with stopwords.words("english").
+
+Q: What additional punctuation marks are added to the string.punctuation set?
+A: The marks "``" and "'" are added to the punctuation set.
+
+Q: How is the contraction "'re" handled in the preprocessing?
+A: The contraction "'re" is replaced with "be".
+
+Q: What scikit-learn class is used for TF-IDF vectorization?
+A: TfidfVectorizer from scikit-learn is used for TF-IDF vectorization.
+
+Q: What scikit-learn function is used to split the data into training and testing sets?
+A: train_test_split from scikit-learn is used to split the data.
+
+Q: What parameter of SVC is set to True to enable probability estimates?
+A: The probability parameter of SVC is set to True.
+
+Q: What kernel is specified for the SVM classifier?
+A: A linear kernel is specified for the SVM classifier.
+
+Q: What scikit-learn class is used to create the model pipeline?
+A: The Pipeline class from scikit-learn is used to create the model pipeline.
+
+Q: How is the execution time of model training measured?
+A: The time module is used to calculate the difference between start and end times.
+
+Q: What method is used to make predictions on the test set?
+A: The predict() method is used to make predictions on the test set.
+
+Q: How are prediction probabilities obtained?
+A: The predict_proba() method is used to obtain prediction probabilities.
+
+Q: What function is used to generate the classification report?
+A: The classification_report() function from scikit-learn is used.
+
+Q: What class is used to create and display the confusion matrix?
+A: The ConfusionMatrixDisplay class is used to create and display the confusion matrix.
+
+Q: How many comments are in each sentiment category (positive/negative)?
+A: There are 1000 comments in each category (positive and negative).
+
+Q: What method is used to read the content of each text file?
+A: The read() method is used to read the content of each text file.
+
+Q: How are the file paths for positive and negative comments obtained?
+A: The glob module is used to obtain file paths matching a pattern.
+
+Q: What is the index range for negative comments in the combined dataframe?
+A: The index range for negative comments is 0 to 999.
+
+Q: What is the index range for positive comments in the combined dataframe?
+A: The index range for positive comments is 1000 to 1999.
+
+Q: What random state is used when shuffling the dataframe?
+A: A random state of 1 is used when shuffling the dataframe.
+
+Q: How is the user prompted to choose between SVM and Naive Bayes models?
+A: The input() function is used to prompt the user to choose between "SVC" or "NB".
+
+Q: What happens if the user enters an invalid model choice?
+A: The prompt is repeated until a valid choice is entered.
+
+Q: How are the results of predictions and their probabilities combined with the test data?
+A: The zip() function is used to combine predictions with test data.
+
+Q: What data structure is used to store the combined predictions and test data?
+A: A list of lists is used to store the combined predictions and test data.
+
+Q: How many NLTK downloads are explicitly performed in the script?
+A: One NLTK download is explicitly performed for the 'averaged_perceptron_tagger'.
+
+Q: What method is used to replace the original text with the preprocessed text in the dataframe?
+A: The replace() method of the pandas Series is used to replace the original text.
+
+Q: How is the effectiveness of text cleaning demonstrated in the script?
+A: An example of a cleaned comment is printed using X[8].
+
+Q: What is the purpose of the 'wntag' variable in the preprocessing step?
+A: It's used to determine the appropriate part of speech for lemmatization.
+
+Q: How are words that don't match any WordNet POS tag handled in lemmatization?
+A: They are left as is, without lemmatization.
+
+Q: What method is used to fit the classification model to the training data?
+A: The fit() method is used to train the classification model.
+
+Q: How are the labels for the confusion matrix specified?
+A: The labels are explicitly defined as ["negative", "positive"].
+
+Q: What is the purpose of the 'probability' parameter in the SVC model?
+A: It enables the calculation of probability estimates for predictions.
+
+Q: How is the choice between SVM and Naive Bayes models implemented in the pipeline?
+A: A variable 'chosen_model' is set based on user input and used in the pipeline.
+
+Q: What method is used to display the confusion matrix plot?
+A: The plot() method of ConfusionMatrixDisplay is used to display the confusion matrix.
+
+Q: What is the main goal of the Autogramm project?
+A: To automate the extraction of descriptive grammars and grammatical descriptions from annotated corpora.
+
+Q: What types of languages does the project primarily focus on?
+A: The project focuses on under-resourced languages.
+
+Q: What two specific languages are mentioned in the project description?
+A: Gbaya and Beja languages are specifically mentioned.
+
+Q: What type of files does the project process for initial data input?
+A: The project processes Elan files from voice recordings.
+
+Q: What is the purpose of developing annotation schemes in this project?
+A: To bridge linguistic labels and machine learning algorithms.
+
+Q: What is one of the main outputs of the project for under-resourced languages?
+A: The creation of treebanks for under-resourced languages.
+
+Q: What programming language is assumed to be used for scripting and data processing?
+A: Python is assumed to be used for scripting and data processing.
+
+Q: What software is used for handling voice recordings and annotations?
+A: Elan is used for handling voice recordings and annotations.
+
+Q: What type of computational methods does the project integrate with linguistic expertise?
+A: The project integrates advanced computational methods, including machine learning.
+
+Q: What is one of the main applications of the project's outcomes?
+A: Enhancing typological and comparative language studies.
+
+Q: What was one of the notable achievements in terms of file processing?
+A: Designing scripts for efficient conversion and processing of Elan files.
+
+Q: What innovative development was made regarding annotation?
+A: An innovative annotation schema was conceived to translate linguistic labels for ML algorithms.
+
+Q: How does the project contribute to the study of Gbaya and Beja languages?
+A: By contributing to the development of treebanks for these languages.
+
+Q: What two domains does the project aim to integrate more closely?
+A: The project aims to enhance the integration of linguistic expertise with computational methods.
+
+Q: What type of patterns does the project focus on extracting from corpora?
+A: The project focuses on extracting and analyzing grammatical patterns.
+
+Q: What is the primary source of data for the project?
+A: Voice recordings and their annotations are the primary source of data.
+
+Q: What is the end goal of data structuring in this project?
+A: Structuring linguistic data for machine learning applications.
+
+Q: What aspect of grammar is the project primarily focused on extracting?
+A: The project focuses on extracting descriptive grammar.
+
+Q: Besides grammar extraction, what other type of linguistic study does the project support?
+A: The project supports typological and comparative language studies.
+
+Q: What is the GitHub repository for the Autogramm project?
+A: The GitHub repository is https://github.com/autogramm.
+
+Q: What role do machine learning models play in the project?
+A: Machine learning models are trained for grammatical pattern recognition.
+
+Q: What type of corpora does the project work with?
+A: The project works with annotated corpora.
+
+Q: How does the project address the challenge of under-resourced languages?
+A: By creating tools and resources like treebanks and extracting grammatical patterns for these languages.
+
+Q: What is the significance of developing treebanks in this project?
+A: Treebanks provide structured linguistic data crucial for computational analysis of under-resourced languages.
+
+Q: How does the project contribute to the field of computational linguistics?
+A: By automating the process of extracting descriptive grammars from annotated corpora.
+
+Q: What challenge does the annotation schema address?
+A: It addresses the challenge of translating linguistic labels into a format suitable for machine learning algorithms.
+
+Q: How might the project's outcomes benefit historical linguistics?
+A: By providing tools for comparative language studies, which can inform historical linguistic research.
+
+Q: What potential impact could this project have on language documentation efforts?
+A: It could streamline and partially automate the process of creating descriptive grammars for documented languages.
+
+Q: How might the project assist field linguists?
+A: By providing tools to process and analyze field recordings more efficiently.
+
+Q: What role does natural language processing play in this project?
+A: NLP tools are used for linguistic data processing.
+
+Q: How does the project handle the variability in linguistic annotations?
+A: Through the development of a flexible annotation schema that can be translated for ML algorithms.
+
+Q: What challenge does working with voice recordings present in this project?
+A: The need to efficiently convert and process audio data and its annotations into a format suitable for analysis.
+
+Q: How might this project contribute to language preservation efforts?
+A: By providing tools to more quickly analyze and document the grammars of endangered languages.
+
+Q: What is the potential benefit of this project for linguistic typology?
+A: It could allow for more efficient comparative analysis across a wider range of languages.
+
+Q: How does the project address the challenge of limited data in under-resourced languages?
+A: By developing methods to extract maximum information from limited annotated corpora.
+
+Q: What is the significance of focusing on Gbaya and Beja languages?
+A: They serve as case studies for applying the project's methods to under-resourced languages.
+
+Q: How might machine learning benefit from this project's linguistic focus?
+A: It provides new challenges and data types for ML, potentially leading to more robust language models.
+
+Q: What is the potential long-term impact of this project on grammatical theory?
+A: It could provide new insights into grammatical patterns across diverse language families.
+
+Q: How does this project differ from traditional approaches to grammar writing?
+A: It automates much of the process, potentially allowing for faster and more consistent grammar extraction.
+
+Q: What challenges might arise in applying machine learning to diverse language structures?
+A: Dealing with linguistic phenomena not present in well-resourced languages used to train most ML models.
+
+Q: How might this project benefit from advancements in speech recognition technology?
+A: Improved speech recognition could enhance the processing of voice recordings.
+
+Q: What role does interdisciplinary collaboration play in this project?
+A: It combines expertise from linguistics, computer science, and potentially other fields like anthropology.
+
+Q: How might the project's outcomes be used in language teaching?
+A: The extracted grammars could be used to create more accurate and comprehensive teaching materials.
+
+Q: What potential challenges might arise in scaling this project to more languages?
+A: Adapting the system to handle a wider variety of linguistic structures and annotation styles.
+
+Q: How does this project contribute to the democratization of linguistic research?
+A: By providing tools that could allow more researchers to work on under-resourced languages.
+
+Q: What is the significance of creating an annotation schema that works with ML algorithms?
+A: It allows for the application of powerful ML techniques to linguistic data that was previously incompatible.
+
+Q: How might this project benefit from advancements in unsupervised learning?
+A: Unsupervised learning could potentially identify grammatical patterns without extensive annotation.
+
+Q: What potential ethical considerations might arise from automating grammar extraction?
+A: Ensuring that the automated process doesn't oversimplify or misrepresent the complexities of a language.
+
+Q: How might this project contribute to our understanding of universal grammar?
+A: By providing a systematic way to compare grammatical structures across a wide range of languages.
+
+Q: What future directions might this project take?
+A: Potential directions include expanding to more languages, incorporating more advanced ML techniques, or integrating with other linguistic research tools.
