@@ -16,7 +16,7 @@ def load_qa_data(file_path):
     return [Document(page_content=f"Q: {q} A: {a}", metadata={"question": q, "answer": a}) for q, a in qa_pairs]
 
 # Set up the model, embeddings, and vector store
-def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-1.5B-Instruct"):
+def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 
     # Replacing Chroma with FAISS
@@ -56,7 +56,7 @@ def run_query(qa_chain, user_query):
 st.title("Diego Rossini's Chatbot")
 
 # Load data and initialize the RAG pipeline only once
-qa_documents = load_qa_data("bot/QA.txt") 
+qa_documents = load_qa_data("bot/QA.txt")
 qa_chain = setup_rag_pipeline(qa_documents)
 
 # Input field for the user's question
