@@ -41,13 +41,13 @@ def run_query(qa_chain, user_query):
     query = f"{user_query} Generate just one short phrase. Do not explain anything."
     response = qa_chain.run(query)
 
-    # Extract the answer from response
+    # Extract the answer from the response
     answer = response.split("Helpful Answer:")[-1].strip() if "Helpful Answer:" in response else response.strip()
 
-    # Remove any additional phrases from the response, if present
-    unwanted_text = "You are an AI assistant that helps people find information."
-    if unwanted_text in answer:
-        answer = answer.split(unwanted_text)[0].strip() + "."  # Truncate and add a period
+    # Remove everything after "You are an AI assistant..." if it exists (case insensitive and flexible)
+    unwanted_phrase = "You are an AI assistant"
+    if unwanted_phrase in answer:
+        answer = answer.split(unwanted_phrase)[0].strip()  # Truncate at the unwanted phrase
     
     return answer if answer else "Sorry, I couldn't find an answer to your question."
 
