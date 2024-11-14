@@ -18,11 +18,11 @@ def load_qa_data(file_path):
 
 # Cache model, embeddings, and vector store initialization
 @st.cache_resource
-def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
+def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 
     # Use FAISS as the vector store
-    vectorstore = FAISS.from_documents(qa_documents, embedding=embeddings_model)
+    vectorstore = FAISS.from_documents(_qa_documents, embedding=embeddings_model)
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)
