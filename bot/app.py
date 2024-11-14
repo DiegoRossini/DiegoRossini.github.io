@@ -1,25 +1,27 @@
 import streamlit as st
-from langchain.vectorstores import FAISS  
-from langchain.embeddings import SentenceTransformerEmbeddings
+from langchain_community.vectorstores import FAISS  
+from langchain_community.embeddings import SentenceTransformerEmbeddings
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain.chains import RetrievalQA
-from langchain.llms import HuggingFacePipeline
+from langchain_community.llms import HuggingFacePipeline
 from langchain.schema import Document
 import re
 import faiss
 
-# Load and parse Q&A data from a text file
+# Load and parse Q&A data from a text file, cached to avoid re-loading each time
+@st.cache_data
 def load_qa_data(file_path):
     with open(file_path, "r") as f:
         text = f.read()
     qa_pairs = re.findall(r"Q: (.*?)\nA: (.*?)\n", text)
     return [Document(page_content=f"Q: {q} A: {a}", metadata={"question": q, "answer": a}) for q, a in qa_pairs]
 
-# Set up the model, embeddings, and vector store
+# Cache model, embeddings, and vector store initialization
+@st.cache_resource
 def setup_rag_pipeline(qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 
-    # Replacing Chroma with FAISS
+    # Use FAISS as the vector store
     vectorstore = FAISS.from_documents(qa_documents, embedding=embeddings_model)
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -51,11 +53,10 @@ def run_query(qa_chain, user_query):
 
     return answer
 
-
 # Streamlit interface
 st.title("Diego Rossini's Chatbot")
 
-# Load data and initialize the RAG pipeline only once
+# Load data and initialize the RAG pipeline only once using cached functions
 qa_documents = load_qa_data("bot/QA.txt")
 qa_chain = setup_rag_pipeline(qa_documents)
 
