@@ -52,7 +52,7 @@ def run_query(qa_chain, user_query):
     return answer if answer else "Sorry, I couldn't find an answer to your question."
 
 # Streamlit interface
-st.title("Diego Rossini's Chatbot")
+st.title("Diego Rossini's personal and sometimes not very clever Chatbot")
 
 # Load data and initialize the RAG pipeline only once
 qa_documents = load_qa_data("bot/QA.txt")
