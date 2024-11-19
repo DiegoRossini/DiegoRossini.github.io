@@ -1,11 +1,11 @@
 streamlit
 transformers
-torch==2.5.1
+torch
 langchain
 sentence-transformers
 faiss-cpu
 langchain_community
-accelerate>=0.26.0
+accelerate
 optimum
-auto-gptq[cpu]
+auto-gptq
 
