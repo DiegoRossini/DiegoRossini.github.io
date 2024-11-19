@@ -1,1 +1,1 @@
-torch==2.2.0+cu121
+--upgrade pip
