@@ -8,4 +8,3 @@ langchain_community
 git+https://github.com/PanQiWei/AutoGPTQ.git
 optimum
 accelerate>=0.26.0
---upgrade pip
