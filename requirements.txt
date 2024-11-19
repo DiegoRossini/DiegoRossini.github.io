@@ -7,4 +7,3 @@ sentence-transformers
 langchain_community
 optimum
 accelerate
-auto-gptq
