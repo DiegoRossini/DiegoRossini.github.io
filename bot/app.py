@@ -17,46 +17,61 @@ def load_qa_data(file_path):
 
 # Set up the model, embeddings, and vector store
 @st.cache_resource
-def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
+def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct-GPTQ-Int4"):
+    # Initialize the embedding model and vector store
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
     vectorstore = FAISS.from_documents(_qa_documents, embedding=embeddings_model)
-
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)
-
-    generator_pipeline = pipeline(
-        "text-generation", 
-        model=model, 
-        tokenizer=tokenizer, 
-        max_new_tokens=100,  
-        device_map="auto"
-    )
     
-    generator = HuggingFacePipeline(pipeline=generator_pipeline)
+    # Load the tokenizer and model
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="auto", device_map="auto")
+    
+    # Define a custom generator using the HuggingFacePipeline
+    def custom_generator(user_query):
+        # Prepare the messages in the expected format
+        messages = [
+            {"role": "system", "content": "You are Qwen, created by Alibaba Cloud. You are a helpful assistant."},
+            {"role": "user", "content": user_query}
+        ]
+        
+        # Apply the chat template
+        text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        
+        # Tokenize and generate response
+        model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
+        generated_ids = model.generate(
+            **model_inputs,
+            max_new_tokens=30,
+        )
+        generated_ids = [
+            output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+        ]
+        response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        return response.strip()
+    
+    # Return the retriever and custom generator function
     retriever = vectorstore.as_retriever()
-    return RetrievalQA.from_chain_type(llm=generator, chain_type="stuff", retriever=retriever)
+    return retriever, custom_generator
 
 # Main function to handle user queries and generate responses
-def run_query(qa_chain, user_query):
-    query = f"{user_query} Generate just one short phrase. Do not explain anything."
-    response = qa_chain.run(query)
-
-    # Extract the answer from the response
-    answer = response.split("Helpful Answer:")[-1].strip() if "Helpful Answer:" in response else response.strip()
-
-    # Remove everything after "You are an AI assistant..." if it exists (case insensitive and flexible)
-    unwanted_phrase = "You are an AI assistant"
-    if unwanted_phrase in answer:
-        answer = answer.split(unwanted_phrase)[0].strip()  # Truncate at the unwanted phrase
+def run_query(retriever, generator, user_query):
+    # Retrieve context using the retriever
+    docs = retriever.get_relevant_documents(user_query)
+    context = "\n".join([doc.page_content for doc in docs])
     
-    return answer if answer else "Sorry, I couldn't find an answer to your question."
+    # Combine user query with retrieved context
+    query_with_context = f"Based on the following context :\n{context}\n\n{user_query}.\nGenerate just one short phrase. Do not explain anything."
+    
+    # Generate the response using the custom generator
+    response = generator(query_with_context)
+    return response if response else "Sorry, I couldn't find an answer to your question."
 
 # Streamlit interface
-st.title("Diego Rossini's personal and sometimes not very clever Chatbot")
+st.title("Diego Rossini's personal Chatbot")
 
 # Load data and initialize the RAG pipeline only once
 qa_documents = load_qa_data("bot/QA.txt")
-qa_chain = setup_rag_pipeline(qa_documents)
+retriever, custom_generator = setup_rag_pipeline(qa_documents)
 
 # Initialize session state for chat history
 if "chat_history" not in st.session_state:
@@ -72,7 +87,7 @@ user_query = st.text_input("Enter your question:", key="user_input", value=st.se
 # Process the query and update chat history
 if user_query:
     # Run query and get the answer
-    answer = run_query(qa_chain, user_query)
+    answer = run_query(retriever, custom_generator, user_query)
     
     # Append question and answer to chat history
     st.session_state.chat_history.append({"user": user_query, "bot": answer})
@@ -82,7 +97,7 @@ if user_query:
 
 # Display chat history
 st.subheader("Chat History")
-for entry in st.session_state.chat_history:
+for entry in reversed(st.session_state.chat_history):
     st.write(f"**User**: {entry['user']}")
     st.write(f"**Bot**: {entry['bot']}")
     st.write("---")
