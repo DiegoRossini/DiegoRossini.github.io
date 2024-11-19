@@ -17,7 +17,7 @@ def load_qa_data(file_path):
 
 # Set up the model, embeddings, and vector store
 @st.cache_resource
-def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct-AWQ"):
+def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
     # Initialize the embedding model and vector store
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
     vectorstore = FAISS.from_documents(_qa_documents, embedding=embeddings_model)

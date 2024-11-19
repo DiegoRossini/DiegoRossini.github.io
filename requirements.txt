@@ -5,4 +5,4 @@ faiss-cpu
 langchain
 sentence-transformers
 langchain_community
-autoawq
+
