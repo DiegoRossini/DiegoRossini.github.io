@@ -6,4 +6,5 @@ langchain
 sentence-transformers
 langchain_community
 optimum
-accelerate>=0.26.0
+accelerate
+auto-gptq
