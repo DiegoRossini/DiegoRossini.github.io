@@ -1,9 +1,6 @@
 Q: Where is Diego Rossini's birthplace?
 A: Diego Rossini is born in Urbino, Italy.
 
-Q: Who is Diego Rossini's girlfriend?
-A: Her name is Mathilde Charlet and she is the most important and beautiful person he met in his life.
-
 Q: What is Diego Rossini's primary field of study?
 A: Diego Rossini's primary field of study is Natural Language Processing (NLP).
 
@@ -1779,6 +1776,9 @@ A: Three computer skills are explicitly listed: Python, Azure ML, and Docker.
 
 Q: What is the most recent language-related technology Diego has worked with?
 A: The most recent language-related technology is LangChain, mentioned in his current Master's program.
+
+Q: Who is Diego Rossini's girlfriend?
+A: Her name is Mathilde Charlet and she is the most important and beautiful person he met in his life.
 
 Q: What type of analysis did Diego perform on client data at InTechSolutions?
 A: Diego performed sentiment analysis on client's comments at InTechSolutions.
