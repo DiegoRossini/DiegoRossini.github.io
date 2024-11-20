@@ -7,6 +7,80 @@ from langchain_community.llms import HuggingFacePipeline
 from langchain.schema import Document
 import re
 
+# CSS for styling
+st.markdown("""
+    <style>
+    /* Background color and font style */
+    .stApp {
+        background-color: #f5f7fa;  /* Light grey-blue background */
+        font-family: 'Arial', sans-serif;
+    }
+
+    /* Chat History Styling */
+    .chat-history {
+        padding: 20px;
+        border-radius: 10px;
+        background-color: #ffffff; /* White chat bubble background */
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
+
+    .chat-history h2 {
+        color: #333333;  /* Darker text color for the Chat History title */
+    }
+
+    /* User and Bot Message Bubbles */
+    .user-message {
+        color: #ffffff;
+        background-color: #007bff;  /* Blue for user messages */
+        padding: 10px 15px;
+        border-radius: 15px;
+        margin-bottom: 10px;
+        display: inline-block;
+        max-width: 80%;
+    }
+
+    .bot-message {
+        color: #333333;
+        background-color: #e9ecef;  /* Light grey for bot responses */
+        padding: 10px 15px;
+        border-radius: 15px;
+        margin-bottom: 10px;
+        display: inline-block;
+        max-width: 80%;
+    }
+
+    /* Adjust text input box */
+    .stTextInput > div {
+        border: 1px solid #ced4da;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+    /* Button Styling */
+    .stButton > button {
+        background-color: #007bff;
+        color: #ffffff;
+        border-radius: 10px;
+        border: none;
+        padding: 10px 20px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        transition: all 0.2s ease-in-out;
+    }
+    .stButton > button:hover {
+        background-color: #0056b3;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+# Add a header with an attractive banner
+st.markdown("""
+    <div style="text-align: center; padding: 20px; background-color: #007bff; color: white; border-radius: 10px;">
+        <h1 style="margin: 0;">🤖 Diego Rossini's Personal Chatbot</h1>
+        <p>Ask me anything, and I'll do my best to assist! Please always fill your query with my full name "Diego Rossini".</p>
+    </div>
+""", unsafe_allow_html=True)
+
 # Load and parse Q&A data from a text file
 @st.cache_data
 def load_qa_data(file_path):
@@ -98,6 +172,9 @@ if user_query:
 # Display chat history
 st.subheader("Chat History")
 for entry in reversed(st.session_state.chat_history):
-    st.write(f"**User**: {entry['user']}")
-    st.write(f"**Bot**: {entry['bot']}")
-    st.write("---")
+    st.markdown(f"""
+        <div class="chat-history">
+            <div class="user-message"><strong>You:</strong> {entry['user']}</div>
+            <div class="bot-message"><strong>Bot:</strong> {entry['bot']}</div>
+        </div>
+    """, unsafe_allow_html=True)
