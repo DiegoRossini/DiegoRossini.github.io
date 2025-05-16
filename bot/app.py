@@ -134,7 +134,7 @@ def run_query(retriever, generator, user_query):
     context = "\n".join([doc.page_content for doc in docs])
     
     # Combine user query with retrieved context
-    query_with_context = f"Based on the following context :\n{context}\n\n{user_query}.\nGenerate just one short phrase. Do not explain anything."
+    query_with_context = f"Based on the following context :\n{context}\n\n{user_query}.\nGenerate just one short phrase."
     
     # Generate the response using the custom generator
     response = generator(query_with_context)
