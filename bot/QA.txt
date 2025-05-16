@@ -109,6 +109,9 @@ A: Selenium was used for automated data scraping in the chunkers project.
 Q: What was the main finding regarding pauses in the chunkers project?
 A: The project found that pauses frequently occur at chunk boundaries, particularly between prepositional and nominal groups.
 
+Q: With which note did Diego Rossini gradutes in Lingusitics in University of Bologna?
+A: With 110/110 with honours.
+
 Q: What was the focus of Diego's movie comment classification project?
 A: The project focused on classifying movie comments into positive and negative categories.
 
