@@ -1,4 +1,9 @@
 <!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>Types of Neologisms – Poster Resource</title>
@@ -9,6 +14,7 @@
 
 		<!-- Lightbox CSS -->
 		<style>
+		/* Lightbox background */
 		#lightbox {
 		  display: none;
 		  position: fixed;
@@ -17,45 +23,35 @@
 		  left: 0;
 		  width: 100%;
 		  height: 100%;
-		  background: rgba(0,0,0,0.95);
+		  background: rgba(0,0,0,0.9);
 		  justify-content: center;
 		  align-items: center;
 		  overflow: hidden;
 		}
-		#lightbox .panzoom-container {
-		  width: 100%;
-		  height: 100%;
-		  display: flex;
-		  justify-content: center;
-		  align-items: center;
-		  overflow: hidden;
-		}
+
+		/* Lightbox image */
 		#lightbox img {
-		  max-width: none; /* Important for pan/zoom */
+		  max-width: none;
 		  max-height: none;
 		  cursor: grab;
 		  touch-action: none;
 		  -webkit-user-drag: none;
 		  user-select: none;
 		}
-		#lightbox-close {
-		  position: absolute;
-		  top: 20px;
-		  right: 20px;
-		  font-size: 2em;
-		  color: white;
-		  cursor: pointer;
-		  z-index: 1000;
-		}
 		</style>
 	</head>
 	<body class="is-preload">
+		<!-- Wrapper -->
 		<div id="wrapper">
+
+			<!-- Header -->
 			<header id="header">
 				<div class="inner">
+					<!-- Logo -->
 					<a href="autogramm.html" class="logo">
 						<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Projects</span>
 					</a>
+					<!-- Nav -->
 					<nav>
 						<ul>
 							<li><a href="#menu">Menu</a></li>
@@ -64,6 +60,7 @@
 				</div>
 			</header>
 
+			<!-- Menu -->
 			<nav id="menu">
 				<h2>Menu</h2>
 				<ul>
@@ -75,22 +72,28 @@
 				</ul>
 			</nav>
 
+			<!-- Main -->
 			<div id="main">
 				<div class="inner">
 					<h1 style="letter-spacing: 6px;">Types of Neologisms – Poster Resource</h1>
 					<div style="display: flex; justify-content: center; margin: 20px 0; flex-wrap: wrap;">
 						<div style="text-align: center; margin: 0 10px; width: 100%; max-width: 1000px;">
+							
+							<!-- Image with Lightbox trigger -->
 							<img src="./images/LexInn_Overview.png" alt="Types of Neologisms Diagram" 
 							     style="width: 100%; height: auto; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); cursor: pointer;" 
 							     onclick="openLightbox(this.src)" />
-							<p style="margin-top: 10px; font-size: 1em; color: #333;">
+							
+							<p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;">
 								<i>Conceptual map representing different types of neologisms based on Smyk Bhattacharjee (2008).</i>
 							</p>
 						</div>
 					</div>							
+
+					<!-- Text -->
 					<section>
-						<h2 style="margin-top: 120px;">Short description</h2>
-						<p style="font-size: 1.2em; text-align: justify;">
+						<h2 style="background-color: transparent; color: black; font-size: 1.2em; font-weight: bold; text-align: justify; margin-top: 120px;">Short description</h2>
+						<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">
 							This figure provides a structured overview of the ways in which neologisms enter a language. 
 							It shows the <b>classification of neologisms</b> into phonological, morphological, semantic, loan-based, and coinage-based processes. 
 							Subcategories demonstrate mechanisms such as derivation, conversion, compounding, and borrowing. 
@@ -98,20 +101,49 @@
 						</p>
 						<hr>
 					</section>
+
+					<section>
+						<h2 style="background-color: transparent; color: black; font-size: 1.2em; font-weight: bold; text-align: justify; margin-top: 150px;">Explore More Projects</h2>
+						<p style="background-color: transparent; color: black; font-size: 1.2em; font-weight: normal; text-align: justify;">
+							If you're interested in exploring more projects, please select another project from the dropdown menu.
+						</p>
+						<select name="demo-category" id="demo-category" style="width: 100%; padding: 8px; box-sizing: border-box; font-weight: bold;">
+							<option value="">- Select Project -</option>
+							<option value="./llm_inference_acceleration.html">LLM Inference Acceleration</option>
+							<option value="./chess_move_commentator.html">Chess Move Commentator</option>
+							<option value="./topic_modeling_news.html">Topic Modeling Analysis of 2022 News</option>
+							<option value="./multilingual_analysis.html">Multilingual NLP Analysis of the Term <i>Banlieue</i></option>
+							<option value="./modality_detector.html">French Verb Classifier V1</option>
+							<option value="./wikicreole.html">Automatic Text Generation in WikiCreole</option>
+							<option value="./chunkers.html">Real-Time Text Analysis with Chunkers</option>
+							<option value="./film_classifier.html">Film Review Sentiment Classifier</option>
+							<option value="./autogramm.html">AutoGramm Parsing Project Contribution</option>
+						</select>
+						<button id="go-button" style="width: 100%; padding: 8px; box-sizing: border-box;">Go</button>
+					</section>
 				</div>
 			</div>
 
+			<!-- Footer -->
 			<footer id="footer">
 				<div class="inner">
 					<section>
 						<h2 style="color: black;"> Get in touch</h2>
 						<form id="contact-form">
 							<div class="fields">
-								<div class="field half"><input type="text" name="name" id="name" placeholder="Name" /></div>
-								<div class="field half"><input type="email" name="email" id="email" placeholder="Email" /></div>
-								<div class="field"><textarea name="message" id="message" placeholder="Message"></textarea></div>
+								<div class="field half">
+									<input type="text" name="name" id="name" placeholder="Name" />
+								</div>
+								<div class="field half">
+									<input type="email" name="email" id="email" placeholder="Email" />
+								</div>
+								<div class="field">
+									<textarea name="message" id="message" placeholder="Message"></textarea>
+								</div>
 							</div>
-							<ul class="actions"><li><input type="submit" value="Send" class="primary" /></li></ul>
+							<ul class="actions">
+								<li><input type="submit" value="Send" class="primary" /></li>
+							</ul>
 						</form>
 					</section>
 					<section>
@@ -128,14 +160,12 @@
 					</ul>
 				</div>
 			</footer>
+
 		</div>
 
-		<!-- Lightbox with Panzoom -->
-		<div id="lightbox">
-			<span id="lightbox-close" onclick="closeLightbox()">&times;</span>
-			<div class="panzoom-container">
-				<img id="lightbox-img" src="" alt="Full-size diagram" />
-			</div>
+		<!-- Lightbox HTML -->
+		<div id="lightbox" onclick="closeLightbox()">
+			<img id="lightbox-img" src="" alt="Full-size diagram" />
 		</div>
 
 		<!-- Scripts -->
@@ -151,35 +181,35 @@
 		<!-- Panzoom library (from CDN) -->
 		<script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
 
-			<script>
-			let panzoomInstance;
+		<!-- Lightbox Script -->
+		<script>
+		let panzoomInstance;
 
-			function openLightbox(src) {
-			document.getElementById("lightbox-img").src = src;
-			document.getElementById("lightbox").style.display = "flex";
+		function openLightbox(src) {
+		  document.getElementById("lightbox-img").src = src;
+		  document.getElementById("lightbox").style.display = "flex";
 
-			// initialize Panzoom
-			const elem = document.getElementById("lightbox-img");
-			panzoomInstance = Panzoom(elem, {
-				maxScale: 5,
-				minScale: 1,
-				contain: "outside",
-				// Add these options for mobile touch support
-				pinchAndPan: true,  // Enable pinch-to-zoom on mobile
-				touchAction: 'none' // Let Panzoom handle all touch events
-			});
+		  // Initialize Panzoom
+		  const elem = document.getElementById("lightbox-img");
+		  panzoomInstance = Panzoom(elem, {
+		    maxScale: 5,
+		    minScale: 1,
+		    contain: "outside",
+		    pinchAndPan: true,  // Enable pinch-to-zoom on mobile
+		    touchAction: 'none' // Let Panzoom handle all touch events
+		  });
 
-			// enable mouse wheel zoom for desktop
-			elem.parentElement.addEventListener("wheel", panzoomInstance.zoomWithWheel);
-			}
+		  // Enable mouse wheel zoom
+		  elem.parentElement.addEventListener("wheel", panzoomInstance.zoomWithWheel);
+		}
 
-			function closeLightbox() {
-			document.getElementById("lightbox").style.display = "none";
-			if (panzoomInstance) {
-				panzoomInstance.destroy();
-				panzoomInstance = null;
-			}
-			}
-			</script>
+		function closeLightbox() {
+		  document.getElementById("lightbox").style.display = "none";
+		  if (panzoomInstance) {
+		    panzoomInstance.destroy();
+		    panzoomInstance = null;
+		  }
+		}
+		</script>
 	</body>
 </html>
