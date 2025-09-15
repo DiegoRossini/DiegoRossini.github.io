@@ -151,32 +151,35 @@
 		<!-- Panzoom library (from CDN) -->
 		<script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
 
-		<script>
-		let panzoomInstance;
+			<script>
+			let panzoomInstance;
 
-		function openLightbox(src) {
-		  document.getElementById("lightbox-img").src = src;
-		  document.getElementById("lightbox").style.display = "flex";
+			function openLightbox(src) {
+			document.getElementById("lightbox-img").src = src;
+			document.getElementById("lightbox").style.display = "flex";
 
-		  // initialize Panzoom
-		  const elem = document.getElementById("lightbox-img");
-		  panzoomInstance = Panzoom(elem, {
-		    maxScale: 5,
-		    minScale: 1,
-		    contain: "outside"
-		  });
+			// initialize Panzoom
+			const elem = document.getElementById("lightbox-img");
+			panzoomInstance = Panzoom(elem, {
+				maxScale: 5,
+				minScale: 1,
+				contain: "outside",
+				// Add these options for mobile touch support
+				pinchAndPan: true,  // Enable pinch-to-zoom on mobile
+				touchAction: 'none' // Let Panzoom handle all touch events
+			});
 
-		  // enable pinch zoom
-		  elem.parentElement.addEventListener("wheel", panzoomInstance.zoomWithWheel);
-		}
+			// enable mouse wheel zoom for desktop
+			elem.parentElement.addEventListener("wheel", panzoomInstance.zoomWithWheel);
+			}
 
-		function closeLightbox() {
-		  document.getElementById("lightbox").style.display = "none";
-		  if (panzoomInstance) {
-		    panzoomInstance.destroy();
-		    panzoomInstance = null;
-		  }
-		}
-		</script>
+			function closeLightbox() {
+			document.getElementById("lightbox").style.display = "none";
+			if (panzoomInstance) {
+				panzoomInstance.destroy();
+				panzoomInstance = null;
+			}
+			}
+			</script>
 	</body>
 </html>
