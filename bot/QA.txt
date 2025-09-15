@@ -109,6 +109,9 @@ A: Selenium was used for automated data scraping in the chunkers project.
 Q: What was the main finding regarding pauses in the chunkers project?
 A: The project found that pauses frequently occur at chunk boundaries, particularly between prepositional and nominal groups.
 
+Q: With which note did Diego Rossini gradutes in Lingusitics in University of Bologna?
+A: With 110/110 with honours.
+
 Q: What was the focus of Diego's movie comment classification project?
 A: The project focused on classifying movie comments into positive and negative categories.
 
@@ -3009,3 +3012,141 @@ A: By providing a systematic way to compare grammatical structures across a wide
 
 Q: What future directions might this project take?
 A: Potential directions include expanding to more languages, incorporating more advanced ML techniques, or integrating with other linguistic research tools.
+
+Q: What is the GitHub profile username of Diego Rossini?
+A: @DiegoRossini
+
+Q: Which programming languages and tools does Diego Rossini list in his computer skills?
+A: Python, R, Docker, Git
+
+Q: What is the mother tongue of Diego Rossini?
+A: Italian
+
+Q: Which languages is Diego Rossini fluent in besides his mother tongue?
+A: English and French
+
+Q: Which language is Diego Rossini at a beginner level?
+A: German
+
+Q: What is the Twitter handle of Diego Rossini?
+A: @DiegoRossi7550
+
+Q: What is the LinkedIn username of Diego Rossini?
+A: @diego-rossini
+
+Q: What is the GitLab username of Diego Rossini?
+A: diego.rossini418
+
+Q: What personal website URL does Diego Rossini use?
+A: diegorossini.github.io
+
+Q: Which conference paper did Diego Rossini co-author in July 2024?
+A: A modal sense classifier for the French modal verb “pouvoir” at CLiC-it 2024
+
+Q: Who co-authored the paper "A modal sense classifier for the French modal verb 'pouvoir'" with Diego Rossini?
+A: Anna Colli and Delphine Battistelli
+
+Q: When did Diego Rossini start his PhD candidacy?
+A: January 2025
+
+Q: At which institution is Diego Rossini a PhD candidate?
+A: Università della Svizzera Italiana
+
+Q: What is the research focus described in Diego Rossini’s PhD candidacy?
+A: Lexical innovation in diverse cultural contexts; computational analysis of language change; NLP and fieldwork in language evolution; investigating new word emergence and spread; exploring social drivers of lexical innovation
+
+Q: When did Diego Rossini pursue his Master’s Degree in Natural Language Processing?
+A: From September 2022 to June 2024
+
+Q: At which universities did Diego Rossini complete his Master’s Degree in Natural Language Processing?
+A: Université Sorbonne Nouvelle, INALCO, and Université Paris X
+
+Q: With which grade did Diego Rossini graduate in his Master’s Degree in Natural Language Processing?
+A: Très Bien
+
+Q: Name one machine learning library that Diego Rossini used during his Master’s NLP projects.
+A: sklearn
+
+Q: What was the subject of Project 1 in Diego Rossini’s Master’s NLP degree?
+A: Semantic analysis of the word "banlieue" and its variants in Italian, English, French, and Greek
+
+Q: Which scripting languages did Diego Rossini use for Project 1 in his Master’s NLP degree?
+A: Bash and Python
+
+Q: What was the focus of Project 2 in Diego Rossini’s Master’s NLP degree?
+A: Scraping of trending expressions over time from Le Monde publications in 2022
+
+Q: Which topic modeling technique did Diego Rossini implement in Project 2 of his Master’s NLP degree?
+A: LDA model
+
+Q: When did Diego Rossini conduct his PhD project at Université de Paris 8?
+A: From March 2019 to March 2020
+
+Q: What was the topic of Diego Rossini’s PhD project at Université de Paris 8?
+A: Unified analysis of partitive phrases grounded in the minimalist theory framework
+
+Q: When did Diego Rossini pursue his Master’s Degree in Linguistics?
+A: From September 2016 to March 2019
+
+Q: At which university did Diego Rossini complete his Master’s Degree in Linguistics?
+A: Università di Bologna
+
+Q: With which grade did Diego Rossini graduate in his Master’s Degree in Linguistics?
+A: 110/110 with highest honors
+
+Q: What was the topic of Diego Rossini’s thesis in his Master’s in Linguistics?
+A: Study of partitive noun phrases in French from a unified perspective, emphasizing structural and semantic similarities with quantitative phrases
+
+Q: When did Diego Rossini complete his Bachelor’s Degree in Literature and General Linguistics?
+A: From September 2012 to February 2016
+
+Q: At which university did Diego Rossini complete his Bachelor’s Degree in Literature and General Linguistics?
+A: Università di Urbino
+
+Q: With which grade did Diego Rossini graduate in his Bachelor’s Degree?
+A: 110/110 with highest honors
+
+Q: What internship did Diego Rossini undertake from March 2024 to August 2024?
+A: Intern in LLM Inference Acceleration at WorldLine Lyon, France
+
+Q: What did Diego Rossini evaluate during his internship at WorldLine Lyon?
+A: Various LLMs in terms of FLOPS, inference speed, and output performance
+
+Q: What attention mechanism did Diego Rossini implement during his LLM Inference Acceleration internship?
+A: GQA attention mechanism on an open source LLM
+
+Q: What project did Diego Rossini work on from April 2023 to July 2023?
+A: AutoGrammar Project at Laboratoire Modyco Nanterre, France
+
+Q: What did Diego Rossini extract automatically in the AutoGrammar Project?
+A: Grammatical descriptions for low-resource languages Gbaya and Beja
+
+Q: Which annotation schemas did Diego Rossini develop during the AutoGrammar Project?
+A: Schemas to connect linguist labels with ML algorithms for treebank creation
+
+Q: Which file format did Diego Rossini process with scripts in the AutoGrammar Project?
+A: Elan files from voice recordings
+
+Q: For which group did Diego Rossini serve as a Professor of Italian language?
+A: Opera singers at Centro Studi Italiani Urbania, Italy
+
+Q: During which period did Diego Rossini teach Italian to opera singers?
+A: From June 2019 to September 2019
+
+Q: How many students did Diego Rossini guide as a Professor of Italian language?
+A: 22 opera students
+
+Q: How many national backgrounds did the opera students have in Diego Rossini’s Italian course?
+A: 11 national backgrounds
+
+Q: What is the rapid chess ELO rating of Diego Rossini?
+A: 1400
+
+Q: Which sports does Diego Rossini play?
+A: Padel, football, and tennis
+
+Q: What is Diego Rossini’s food expertise?
+A: Pasta expert
+
+Q: Which band is Diego Rossini a fan of?
+A: Pink Floyd

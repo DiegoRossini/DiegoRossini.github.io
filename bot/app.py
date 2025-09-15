@@ -91,7 +91,7 @@ def load_qa_data(file_path):
 
 # Set up the model, embeddings, and vector store
 @st.cache_resource
-def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
+def setup_rag_pipeline(_qa_documents, model_name="HuggingFaceTB/SmolLM2-1.7B-Instruct"):
     # Initialize the embedding model and vector store
     embeddings_model = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
     vectorstore = FAISS.from_documents(_qa_documents, embedding=embeddings_model)
@@ -104,7 +104,7 @@ def setup_rag_pipeline(_qa_documents, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
     def custom_generator(user_query):
         # Prepare the messages in the expected format
         messages = [
-            {"role": "system", "content": "You are Qwen, created by Alibaba Cloud. You are a helpful assistant."},
+            {"role": "system", "content": "You are SmolLM2, created by Hugging Face. You are a helpful assistant that asnwers questions about Diego Rossini using a RAG."},
             {"role": "user", "content": user_query}
         ]
         
@@ -134,7 +134,7 @@ def run_query(retriever, generator, user_query):
     context = "\n".join([doc.page_content for doc in docs])
     
     # Combine user query with retrieved context
-    query_with_context = f"Based on the following context :\n{context}\n\n{user_query}.\nGenerate just one short phrase. Do not explain anything."
+    query_with_context = f"Based on the following context :\n{context}\n\n{user_query}.\nGenerate just one short phrase."
     
     # Generate the response using the custom generator
     response = generator(query_with_context)
