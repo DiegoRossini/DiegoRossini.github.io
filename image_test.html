@@ -12,7 +12,60 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
+		<!-- Lightbox CSS -->
+		<style>
+		/* Lightbox background */
+		#lightbox {
+		  display: none;
+		  position: fixed;
+		  z-index: 999;
+		  top: 0;
+		  left: 0;
+		  width: 100%;
+		  height: 100%;
+		  background: rgba(0,0,0,0.9);
+		  overflow: auto; /* Allow scrolling */
+		  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+		}
 
+		/* Close button */
+		#lightbox-close {
+		  position: fixed;
+		  top: 20px;
+		  right: 20px;
+		  color: white;
+		  font-size: 40px;
+		  font-weight: bold;
+		  cursor: pointer;
+		  z-index: 1000;
+		  background: rgba(0,0,0,0.5);
+		  width: 50px;
+		  height: 50px;
+		  border-radius: 50%;
+		  display: flex;
+		  align-items: center;
+		  justify-content: center;
+		  line-height: 1;
+		}
+
+		/* Image container */
+		#lightbox-container {
+		  min-width: 100%;
+		  min-height: 100%;
+		  display: flex;
+		  justify-content: center;
+		  align-items: center;
+		  padding: 20px;
+		}
+
+		/* Lightbox image */
+		#lightbox img {
+		  width: auto;
+		  height: auto;
+		  max-width: none; /* Allow image to be larger than viewport */
+		  display: block;
+		}
+		</style>
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -53,17 +106,13 @@
 					<div style="display: flex; justify-content: center; margin: 20px 0; flex-wrap: wrap;">
 						<div style="text-align: center; margin: 0 10px; width: 100%; max-width: 1000px;">
 							
-							<!-- Image with link to open in new tab -->
-							<a href="./images/LexInn_Overview.png" target="_blank">
-								<img src="./images/LexInn_Overview.png" alt="Types of Neologisms Diagram" 
-								     style="width: 100%; height: auto; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); cursor: pointer;" />
-							</a>
+							<!-- Image with Lightbox trigger -->
+							<img src="./images/LexInn_Overview.png" alt="Types of Neologisms Diagram" 
+							     style="width: 100%; height: auto; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); cursor: pointer;" 
+							     onclick="openLightbox(this.src)" />
 							
 							<p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;">
 								<i>Conceptual map representing different types of neologisms based on Smyk Bhattacharjee (2008).</i>
-							</p>
-							<p style="background-color: transparent; margin-top: 5px; font-size: 0.9em; color: #666;">
-								<i>Click image to open in full size (new tab)</i>
 							</p>
 						</div>
 					</div>							
@@ -139,6 +188,14 @@
 				</div>
 			</footer>
 
+		</div>
+
+		<!-- Lightbox HTML -->
+		<div id="lightbox">
+			<span id="lightbox-close" onclick="closeLightbox()">&times;</span>
+			<div id="lightbox-container">
+				<img id="lightbox-img" src="" alt="Full-size diagram" />
+			</div>
 		</div>
 
 		<!-- Scripts -->
