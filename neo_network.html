@@ -54,50 +54,52 @@
 						<div style="text-align: center; margin: 0 20px; width: 100%;">
 							
 							<!-- Interactive SVG Network -->
-							<svg style="width:100%; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 2048">
-								<style>
-								.image-mapper-shape {
-									fill: rgba(0, 0, 0, 0);
-								}
-								g:hover .image-mapper-shape {
-									stroke: white;
-									stroke-width: 2px;
-									opacity: 20%;
-								}
-								</style>
-										
-								<image xlink:href="./images/First_Simple_Network_Analysis.png" style="width: 2048px;"></image>
-								<a xlink:href="https://www.youtube.com/shorts/1Z9zgdbMWCE" target="_blank" xlink:title="Video">
-								<g>
-								<circle cx="918.0018993352327" cy="635.988603988604" r="89.65634875847977" class="image-mapper-shape" data-index="11"></circle>
-								</g>
-								</a>
-								<a xlink:href="https://www.youtube.com/shorts/96S_X1irp5A" target="_blank" xlink:title="Video">
-								<g>
-								<circle cx="1235.0237416904083" cy="1153.3371320037986" r="102.36263706550687" class="image-mapper-shape" data-index="13"></circle>
-								</g>
-								</a>
-								<a xlink:href="https://www.youtube.com/shorts/t8QvOJEKL50" target="_blank" xlink:title="Video">
-								<g>
-								<circle cx="851.8746438746439" cy="1013.3029439696106" r="81.89472877470666" class="image-mapper-shape" data-index="14"></circle>
-								</g>
-								</a>
-								<a xlink:href="https://www.youtube.com/shorts/tp3sWVBNz30" target="_blank" xlink:title="Video">
-								<g>
-								<circle cx="1343.9392212725545" cy="830.4805318138651" r="41.02811712129617" class="image-mapper-shape" data-index="15"></circle>
-								</g>
-								</a>
-								<a xlink:href="https://www.youtube.com/shorts/yFDL2-8S8es" target="_blank" xlink:title="Video">
-								<g>
-								<circle cx="587.3656220322888" cy="995.7986704653372" r="25.283950617284063" class="image-mapper-shape" data-index="16"></circle>
-								</g>
-								</a>
-								<a xlink:href="https://www.youtube.com/shorts/-H1UAazNkPk" target="_blank" xlink:title="Video">
-								<g>
-								<circle cx="1466.4691358024693" cy="1386.727445394112" r="43.70662483484523" class="image-mapper-shape" data-index="17"></circle>
-								</g>
-								</a>
-							</svg>
+							<div style="width: 100%; overflow: auto; -webkit-overflow-scrolling: touch;">
+								<svg style="width:100%; min-width: 800px; min-height: 800px; border: 5px solid #ccc; padding: 10px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); touch-action: manipulation;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 2048">
+									<style>
+									.image-mapper-shape {
+										fill: rgba(0, 0, 0, 0);
+									}
+									g:hover .image-mapper-shape {
+										stroke: white;
+										stroke-width: 2px;
+										opacity: 20%;
+									}
+									</style>
+											
+									<image xlink:href="./images/First_Simple_Network_Analysis.png" style="width: 2048px;"></image>
+									<a xlink:href="https://www.youtube.com/shorts/1Z9zgdbMWCE" target="_blank" xlink:title="Video">
+									<g>
+									<circle cx="918.0018993352327" cy="635.988603988604" r="89.65634875847977" class="image-mapper-shape" data-index="11"></circle>
+									</g>
+									</a>
+									<a xlink:href="https://www.youtube.com/shorts/96S_X1irp5A" target="_blank" xlink:title="Video">
+									<g>
+									<circle cx="1235.0237416904083" cy="1153.3371320037986" r="102.36263706550687" class="image-mapper-shape" data-index="13"></circle>
+									</g>
+									</a>
+									<a xlink:href="https://www.youtube.com/shorts/t8QvOJEKL50" target="_blank" xlink:title="Video">
+									<g>
+									<circle cx="851.8746438746439" cy="1013.3029439696106" r="81.89472877470666" class="image-mapper-shape" data-index="14"></circle>
+									</g>
+									</a>
+									<a xlink:href="https://www.youtube.com/shorts/tp3sWVBNz30" target="_blank" xlink:title="Video">
+									<g>
+									<circle cx="1343.9392212725545" cy="830.4805318138651" r="41.02811712129617" class="image-mapper-shape" data-index="15"></circle>
+									</g>
+									</a>
+									<a xlink:href="https://www.youtube.com/shorts/yFDL2-8S8es" target="_blank" xlink:title="Video">
+									<g>
+									<circle cx="587.3656220322888" cy="995.7986704653372" r="25.283950617284063" class="image-mapper-shape" data-index="16"></circle>
+									</g>
+									</a>
+									<a xlink:href="https://www.youtube.com/shorts/-H1UAazNkPk" target="_blank" xlink:title="Video">
+									<g>
+									<circle cx="1466.4691358024693" cy="1386.727445394112" r="43.70662483484523" class="image-mapper-shape" data-index="17"></circle>
+									</g>
+									</a>
+								</svg>
+							</div>
 							
 							<p style="background-color: transparent; margin-top: 10px; font-size: 1em; color: #333; font-weight: normal;">
 								<i>Network visualization of the top 9 most active subreddits (2015-2024) showing the most frequent neologisms and their connectivity patterns.</i>
@@ -125,7 +127,7 @@
 							This interactive network visualization presents data from the <b>top 9 most active subreddits</b> in terms of total posts and comments between 2015 and 2024, based on a Reddit corpus scraped during the first 4 months of 2025 using the API. 
 							The network displays the <b>most frequent neologisms</b> found in these subreddits, showing both their connectivity and frequency of use. 
 							The visualization reveals interesting patterns - for example, "incel" shows high connectivity similar to "eli5", while "moass" appears highly specific to finance-related communities. 
-							Selected nodes are interactive and link to real-world examples of these terms being used in context, providing a dynamic way to understand how new language forms emerge and spread through different communities.
+							Selected nodes are interactive and link to real-world examples of these terms being used in context, providing a dynamic way to understand how new language forms emerge and spread through different Reddit communities.
 						</p>
 						<hr>
 					</section>
